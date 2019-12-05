@@ -1,2016 +1,789 @@
-Sentence Support her in whatever she needs to do to heal.
-GT 0
+Sentence Just keep your hopes high.
+GT 1
 Pred 0
-Sentence We were both living on a pink cloud.
-GT 0
+Sentence Your bf and you can take solace in the fact that Kojima and Guillermo del Toro are making Death Stranding, which looks to be such a riveting game.
+GT 1
 Pred 0
-Sentence So drunk that apparently the bar owner didn't think it was okay to even put her in the back of a cab.
-GT 0
+Sentence Any other situation to talk to the girl would have been creepier, (Asking when she gets off, waiting for her outside of her work, Asking for any social media)...
+GT 1
 Pred 0
-Sentence Is there some place special he misses in seattle?
-GT 0
+Sentence She wants to sleep in that mans bed and suck his dick on que, he's just been promoted.
+GT 1
 Pred 0
-Sentence They're super common, pretty cheap, and built like absolute tanks.
-GT 0
+Sentence I imagine people who grow up with tons of stability might enjoy spontaneity for a change...
+GT 1
 Pred 0
-Sentence And all I can do is follow it around with a broom and cry.
-GT 0
+Sentence You're much stronger than you think.
+GT 1
 Pred 0
-Sentence &gt; We did bad (instead of badly) is now acceptable.  "poorly" is the word you're looking for
-GT 0
+Sentence Guess they weren't expecting a guy with a beard long enough to braid it.
+GT 1
 Pred 0
-Sentence I<U+0092>m sorry I don<U+0092>t have any advice, but just know you are not alone.
-GT 0
+Sentence It's basically a Heritage Foundation plan that was designed for Bob Dole when he ran against Clinton.
+GT 1
 Pred 0
-Sentence Good job getting back it.
-GT 0
+Sentence Financial inequality in a relationship sadly means trouble more often than not.
+GT 1
 Pred 0
-Sentence Having a type is one thing being a dickhead is another
-GT 0
+Sentence Realistically, that will be tough, especially considering we are training partners and workout together every day.
+GT 1
 Pred 0
-Sentence That's hard, but thinking about it, you might be right.
-GT 0
+Sentence It was a brutal sight to see.
+GT 1
 Pred 0
-Sentence I took medieval European history, a survey on East Asia, the mandatory American history survey or two, and a series on World Military History.
-GT 0
+Sentence Resisting her manipulation will help her, not harm her.
+GT 1
 Pred 0
-Sentence Because he is demanding that op starve herself.
-GT 0
+Sentence You were brave to speak about it, im sorry your parents were the worst support about it.
+GT 1
 Pred 0
-Sentence I'm assuming not, because if they were, they would probably already be helping...
-GT 0
+Sentence If only I could've taken my sister to the hospital.
+GT 1
 Pred 0
-Sentence True but it was a good ass post so if you didn't read it that's your loss
-GT 0
+Sentence Go with smaller companies because they'll need you to do more.
+GT 1
 Pred 0
-Sentence They didn't even meet in person.
-GT 0
+Sentence People have had experiences like mine too and most don't have good intuition.
+GT 1
 Pred 0
-Sentence Wish you all the best!
-GT 0
+Sentence Nowadays, i already noticed that is useless to try, every time i heard the same answer.
+GT 1
 Pred 0
-Sentence That's what we're talking about here and you're too busy boasting about you being the exception.
-GT 0
+Sentence She doesn't seem to respect your half of the relationship.
+GT 1
 Pred 0
-Sentence Thank you for this, and for letting me tell you about her.
-GT 0
+Sentence Thanks for answering, I was actually curious
+GT 1
 Pred 0
-Sentence Music is made to sound good and give you the feels, not fit in a shitty romantic video.
-GT 0
+Sentence Really though it would be best if you moved out.
+GT 1
 Pred 0
-Sentence Which I<U+0092>m super excited for!
-GT 0
+Sentence Maybe the chase excited him too.
+GT 1
 Pred 0
-Sentence If you<U+0092>re not making memories and actually being a parent, what are you to your children?
-GT 0
+Sentence numbers, so I won't get to sit with her and make sure she's having an okay time lol.
+GT 1
 Pred 0
-Sentence Sorry to hear that friend, I wish I could find that contentment of which you speak.
-GT 0
+Sentence Have you always been this way, or is this something new with wanting your space?
+GT 1
 Pred 0
-Sentence I feel exactly like you too..
-GT 0
+Sentence Southern parents can't help themselves.
+GT 1
 Pred 0
-Sentence Put aside money for this.
-GT 0
+Sentence Just by being here, you are making progress and doing well, because when I was in a similar situation, I pretty much lost my mind.
+GT 1
 Pred 0
-Sentence The only thing you'll get in a life is opportunities and the freedom to make respond to them.
-GT 0
+Sentence End it.     (correct me if I<U+0092>m wrong on anything)
+GT 1
 Pred 0
-Sentence And if your friends are true, they will, too.
-GT 0
+Sentence The wood needles have more grip, and as someone new to it that's a good thing because you don't want your stitches slipping off the end.
+GT 1
 Pred 0
-Sentence A third person in the relationship is never a good idea, dead or alive.
-GT 0
+Sentence I can relate a lot to his fear, assuming what you think is actually what he feels.
+GT 1
 Pred 0
-Sentence I know it sounds silly.
-GT 0
+Sentence He's clearly staying with you for some reason though so you might want to figure that out or just straight up dump him.
+GT 1
 Pred 0
-Sentence I wish you luck OP and I hope things turn out better for you.
-GT 0
+Sentence LOL if this will be your 2nd honeymoon with your wife.
+GT 1
 Pred 0
-Sentence I think it's just one of those things it takes time to get over.
-GT 0
+Sentence Then into over a yearFinally I have up found the best dentist in town and went.
+GT 1
 Pred 0
-Sentence Please be kind to yourself.
-GT 0
+Sentence If you invest properly and don<U+0092>t go absolutely nuts with your money, you<U+0092>ll be living cushy forever.
+GT 1
 Pred 0
-Sentence It could have been installed by a virus/malware.
-GT 0
+Sentence On the other hand, treat yourself and tell the cheaters girlfriend.
+GT 1
 Pred 0
-Sentence I'm actually  curious - why give the kid an option of punishment?
-GT 0
+Sentence There, you can sleep in a shelter and you'll be within proximity of places to find work.
+GT 1
 Pred 0
-Sentence Employers love it when you already have some experience in the field.
-GT 0
+Sentence Help her come up with some healthier alternatives to coke, like fruit infused water or something that she can still enjoy while drinking.
+GT 1
 Pred 0
-Sentence That kind of mindset seems problematic.
-GT 0
+Sentence I know how to hunt, fish, build fires, chop wood, tie a shit ton of knots, build tents.
+GT 1
 Pred 0
-Sentence One-day they will be compassionate, then the next day they become cold.
-GT 0
+Sentence Now if I<U+0092>m not getting Sam Adams it will be budwiser or Coor Lite
+GT 1
 Pred 0
-Sentence This whataboutism is not helpful to the cause you purport to be behind and instead serves to actively diminish the public view of the severity of it when it is brought as an unwarranted response to a woman who was raped or sexually assaulted.
-GT 0
+Sentence You have a really good head on your shoulders :) I was also pondering if your size was never the true problem and that this chick had ridiculous unrealistic expectations.
+GT 1
 Pred 0
-Sentence Lmao, the 'thicc as hell' bit made me chuckle.
-GT 0
+Sentence But ALL of that goes out the window this year.
+GT 1
 Pred 0
-Sentence That's a fear you should welcome.
-GT 0
+Sentence How would she know where to find it, or be able to get it out?
+GT 1
 Pred 0
-Sentence If you have anywhere to go, I would advice that you get away from this at least for the near future and give it some time.
-GT 0
+Sentence Also never met anyone born on 1st April.
+GT 1
 Pred 0
-Sentence I wish you the best.
-GT 0
+Sentence I'm quite the opposite lol.
+GT 1
 Pred 0
-Sentence You have all the time in the world to become a parent.
-GT 0
+Sentence But I<U+0092>d much rather smoke a joint then take a pill with more side affects then a dictionary.
+GT 1
 Pred 0
-Sentence And I LOVE the sun.
-GT 0
+Sentence I couldn<U+0092>t even drive or shop, not to mention shower.
+GT 1
 Pred 0
-Sentence It really helps to hear (or read!)
-GT 0
+Sentence I will try to clarify.
+GT 1
 Pred 0
-Sentence I take one, not knowing what to expect, and shove it in my mouth.
-GT 0
+Sentence To me, intimacy seems to muddle things.
+GT 1
 Pred 0
-Sentence You've already been disrespected enough.
-GT 0
+Sentence Congrats man, make sure to drink lots of water.
+GT 1
 Pred 0
-Sentence Look in to community college courses, some of those can be done at night or online which might fit your schedule better.
-GT 0
+Sentence He should be LESS likely to abuse a child, not more so, from having been through it himself.
+GT 1
 Pred 0
-Sentence With that, people diverge, and don't always end up in the same chapter, or even same book, and that's okay.
-GT 0
+Sentence What the fuck am i doing here?
+GT 1
 Pred 0
-Sentence And in the long run, it works out.
-GT 0
+Sentence I'm sorry to hear about your December cat.
+GT 1
 Pred 0
-Sentence As hard as it will be, just know you did the right thing.
-GT 0
+Sentence The thing is that I don't have a plan, I actually don't want to have one.
+GT 1
 Pred 0
-Sentence Sure, people were scared about death, but they were also very much aware and prepared to deal with it when it hit them.
-GT 0
+Sentence I think baking for them would be a really kind gesture.
+GT 1
 Pred 0
-Sentence She says to wrap it up in plastic and eat it the next day because it benefits from sitting overnight.
-GT 0
+Sentence I tried to run/bike but it didn<U+0092>t last long   I was depressed.
+GT 1
 Pred 0
-Sentence I feel like this is more common than people realize.
-GT 0
+Sentence I do know that repressive religious views one sex can lead to some really fucked up emotions after sexual activity of kind.
+GT 1
 Pred 0
-Sentence The bites the lack of vaccinations and everything else is in our ASPCA and police reports.
-GT 0
+Sentence Oh he will, some of the guys at the barbecue work with him, so they're all talking about speaking with their superiors about it.
+GT 1
 Pred 0
-Sentence It hurt but you will be fine &lt;3
-GT 0
+Sentence Asking for a number to "be friends" with a married woman is a no-no.
+GT 1
 Pred 0
-Sentence Good luck setting it all up- it'll be well worth the effort.
-GT 0
+Sentence He cheated on you with a man he's been chatting with for years.
+GT 1
 Pred 0
-Sentence I don't have a problem with religion, I truly don't.
-GT 0
+Sentence OP, You are not lucky.
+GT 1
 Pred 0
-Sentence You're all adults there yea.
-GT 0
+Sentence &gt; Being an adult is minding your own business and not caring about what other people do with their lives.
+GT 1
 Pred 0
-Sentence Complacency is just a *bleh*.)
-GT 0
+Sentence The gift is adorable and I<U+0092>d swoon, my idea is just a cute idea that<U+0092>ll give twice the pleasure and also practicality!
+GT 1
 Pred 0
-Sentence So this one runs away and they decide : "Oh good golly gosh, we'd better FORCE this girl to do this stuff."
-GT 0
+Sentence Don't lose faith in people.
+GT 1
 Pred 0
-Sentence Or was, I guess I should say, haha...
-GT 0
+Sentence This whole situation is a clusterfuck and I am confused as to why anyone would justify any of their behaviors.
+GT 1
 Pred 0
-Sentence Wow I haven<U+0092>t heard of them in a while.
-GT 0
+Sentence They constantly ask people for money but when the person they are asking needs the help they don't or can't do anything?!
+GT 1
 Pred 0
-Sentence Right now the weed probably does serve a function.
-GT 0
+Sentence You tried thats what really matters and I personally can't think of anything else you yourself could have done.
+GT 1
 Pred 0
-Sentence your comment taken out of context can go so many other places.
-GT 0
+Sentence But if not, you have a relationship with a cool person, and share a hobby you enjoy with them regularly.
+GT 1
 Pred 0
-Sentence So thank you so much.
-GT 0
+Sentence It took some time for me to do that but it's the best way and after awhile you don't miss them.
+GT 1
 Pred 0
-Sentence Some people don't know that, so that is why I mention it.
-GT 0
+Sentence I get the mourning a concept thing, and that's something I needed to work on.
+GT 1
 Pred 0
-Sentence Look for better friends who do not have the traits of damaging personality disorders and look for ways to quit being an enabler.
-GT 0
+Sentence I've been looking into Mystery Shopping since it's so flexible and I can do that as much or as little as I want depending on how I feel.
+GT 1
 Pred 0
-Sentence So the thing that I didn't mention is that it's not really a formal yoga thing, it's just her inviting people to do yoga with her at a friend's place because she's licensed to do it, and it's a cool way to meet new people and have fun doing yoga.
-GT 0
+Sentence Make sure you put your trust in her and try not to add fuel to the fire.
+GT 1
 Pred 0
-Sentence And there is no shaming as homemaker?
-GT 0
+Sentence Shoot him down and be an asshole about it.
+GT 1
 Pred 0
-Sentence They live in a run down place, probably as old as my home just not well cared for.
-GT 0
+Sentence And of course i have no insight in the financial situation, but if there is room for it he might consider finding and hiring a better replacement for the guy, while the other one is still employed.
+GT 1
 Pred 0
-Sentence I didn't say democracy was right or wrong, I said majority rules so the opinions of the majority are what counts.
-GT 0
+Sentence Have any ideas of what you're going to name him?
+GT 1
 Pred 0
-Sentence They'll just tell him the same thing we already all know.
-GT 0
+Sentence I feel so empty and betrayed.
+GT 1
 Pred 0
-Sentence In moments of anger people think of hurting others but they don't.
-GT 0
+Sentence Failing that, a massive mug of sugary tea and a fry up in the morning is your only man!
+GT 1
 Pred 0
-Sentence Maybe send her a photo of you and the guy making out and point out its something she can't have.
-GT 0
+Sentence And his kids can do no wrong.
+GT 1
 Pred 0
-Sentence The Pendleton outlet stores around Oregon and Washington  do have some good prices though.
-GT 0
+Sentence Do you have insurance through work?
+GT 1
 Pred 0
-Sentence That is to say, I was dead broke!!
-GT 0
+Sentence My channel was called MattsOutrageous.
+GT 1
 Pred 0
-Sentence If you need to vent my DM's are open dude.
-GT 0
+Sentence That was SUPER long, but a really good read.
+GT 1
 Pred 0
-Sentence No, it only makes things worse.
-GT 0
+Sentence ya it is hard to bring down the wall unless you really trust that person to not destroy whatever you have left behind it =)
+GT 1
 Pred 0
-Sentence I just gotta give it some time to think and do what is best for me.
-GT 0
+Sentence You don't need to be reminded by him randomly that he loves you, that doesn't make him love you more, or love you less if he doesn't.
+GT 1
 Pred 0
-Sentence Unfortunately, I am not alone.
-GT 0
+Sentence Maybe next time keep you comments to yourself.
+GT 1
 Pred 0
-Sentence Most people develop a pattern of isolating themselves and then becoming devastated that no one comes searching after them.
-GT 0
+Sentence How do you know it was your grandmother?
+GT 1
 Pred 0
-Sentence Similar thing happened on the show pretty little liars...it did not end well.
-GT 0
+Sentence I don't necesserily get why anyone should encourage anyone to go on living, people have to do that for themselves in the end.
+GT 1
 Pred 0
-Sentence And that's precisely how this experience has shaped who you are NOW.....
-GT 0
+Sentence The military is always a love hate relationship.
+GT 1
 Pred 0
-Sentence I<U+0092>d feel so bad, it would kill the mood for me.
-GT 0
+Sentence The oldest is 17 and the youngest is 1.
+GT 1
 Pred 0
-Sentence The whole point of the reservoir at the end of the condom is to catch the sperm.
-GT 0
+Sentence Maybe talked him into a theropy idk but you can only help so much
+GT 1
 Pred 0
-Sentence It<U+0092>s a very easy concept that some find so difficult
-GT 0
+Sentence If everyone stayed with their partner because they had already been together for a while, *nobody* would *ever* breakup with anybody.
+GT 1
 Pred 0
-Sentence Don't think about anything else.
-GT 0
+Sentence Well, I want to know the rest.
+GT 1
 Pred 0
-Sentence I do agree that virtue lies in a happy medium, I never meant to imply that we should ignore tragedies.
-GT 0
+Sentence Please don't hesitate to hit me up
+GT 1
 Pred 0
-Sentence Mine would actually eat themselves to death given the opportunity.
-GT 0
+Sentence They shouldn<U+0092>t ask you stuff that makes you uncomfortable.
+GT 1
 Pred 0
-Sentence Either she'll tell you she's moved on, and you can find closure, or she'll say she's feeling exactly the same and you can work it out.
-GT 0
+Sentence Could be the woman's parents have the kid and that's why they go visit so much.
+GT 1
 Pred 0
-Sentence I see what you're saying, but you don't necessarily have to have a lot in common to make a good couple.
-GT 0
+Sentence It was either manipulation on their part or they were too stupid to realise how much it affected you.
+GT 1
 Pred 0
-Sentence Looking back on it I actually think he might have pregamed a bit.
-GT 0
+Sentence I<U+0092>m doing everything I can to give myself the best mental chance of getting through this as myself
+GT 1
 Pred 0
-Sentence I hope you can find a roommate to move as soon as you can, and then begin to fix yourself piece by piece.
-GT 0
+Sentence Not dead battery, not overheating?
+GT 1
 Pred 0
-Sentence Best of luck!
-GT 0
+Sentence And it doesn<U+0092>t help, that if you don<U+0092>t do one you won<U+0092>t graduate.
+GT 1
 Pred 0
-Sentence I hope things get better for you &lt;3
-GT 0
+Sentence In the meantime, I'm stuck with the gigalo boyfriend.
+GT 1
 Pred 0
-Sentence I 100% bet if you went to hotmail, created a brand new email account, and then emailed your landlord about that, the landlord will probably do something.
-GT 0
+Sentence Which is horrible, I know enough to admit that.
+GT 1
 Pred 0
-Sentence Cuz yes, fuck this bullshit!
-GT 0
+Sentence He was tickling me like usual.
+GT 1
 Pred 0
-Sentence The main obstacle is saying goodbye to Walmart, Amazon, etc.
-GT 0
+Sentence We can't help what we are attracted to.
+GT 1
 Pred 0
-Sentence I cannot imagine witnessing something like that.
-GT 0
+Sentence I haven't played that one!
+GT 1
 Pred 0
-Sentence Learning to spot those situations is part of life.
-GT 0
+Sentence Myfather took his own life on Thanksgiving Day years ago.
+GT 1
 Pred 0
-Sentence I hope you know you're not alone.
-GT 0
+Sentence This really shouldn't even be relevant to this post but ur crybaby ass had to bring up an irrelevant generalization on a post that is about a personal issue.
+GT 1
 Pred 0
-Sentence Don't be discouraged, if you love to sing and you can at least carry a tune (which you clearly can) then you're good enough to sing in public.
-GT 0
+Sentence Venting is great but seeing friends in person and talking live on the phone at least will help you more and hurt you less.
+GT 1
 Pred 0
-Sentence If I may ask what is your problem with his weed use?
-GT 0
+Sentence If she doesn't leave him but tries talking to you definitely don't cause she's just playing both of you at that point.
+GT 1
 Pred 0
-Sentence At first they were all happy and helpful.
-GT 0
+Sentence It's been the best, most challenging thing I've ever done thus far in my life.
+GT 1
 Pred 0
-Sentence I think you should talk to a professional to help clear up what to do going forward.
-GT 0
+Sentence I just like having a nice crunch on my pizza.
+GT 1
 Pred 0
-Sentence But some choices, well, you won't know how they'll pan out.
-GT 0
+Sentence Just worry about enjoying this moment.
+GT 1
 Pred 0
-Sentence If there is a life after this one, then I'm sure it'll be a great adventure.
-GT 0
+Sentence I think you helping her get out of that situation may have changed the course of her life.
+GT 1
 Pred 0
-Sentence That's what it feels like to me.
-GT 0
+Sentence It just seemed really shitty if he didn't know he was temperary.
+GT 1
 Pred 0
-Sentence It is going to be okay.
-GT 0
+Sentence Well, it probably will actually be fine.
+GT 1
 Pred 0
-Sentence get out of that shit!
-GT 0
+Sentence Otherwise, he<U+0092>s useless and toxic for both of you.
+GT 1
 Pred 0
-Sentence Search Instagram for <U+0093>hashtagPDXtattoo<U+0094> (only a real hashtag<U+0097> can<U+0092>t write it here or it formats weird) and you<U+0092>ll see a ton of what I<U+0092>m walking about.
-GT 0
+Sentence Did you ever have anyone you were interested in that you wanted to pursue but it didn't happen for whatever reason?
+GT 1
 Pred 0
-Sentence If you wanted to interact with other people you would prefer to be at the centre of the room to give yourselves more space
-GT 0
+Sentence He told me that his life, friends, family and activities are all over there... and that mine were over here...
+GT 1
 Pred 0
-Sentence It may feel awful to break down in front of them, but when that unconditional hug or touch or <U+0093>daddy I love you don<U+0092>t be sad<U+0094>....damn.
-GT 0
+Sentence I hope everything works out.
+GT 1
 Pred 0
-Sentence Stop cooking for him since apparently you "don't do it right".
-GT 0
+Sentence Sounds like you've learned a lot from what you have been through.
+GT 1
 Pred 0
-Sentence If not see if you have a close friend that could watch the kids for a night.
-GT 0
+Sentence I<U+0092>m single, she doesn<U+0092>t exist! :D
+GT 1
 Pred 0
-Sentence I just love exploring and meeting new wacky NPCs.
-GT 0
+Sentence Reddit is a place of goodness.
+GT 1
 Pred 0
-Sentence It should all be a much easier descision shouldn<U+0092>t it?
-GT 0
+Sentence It was the most terrifying, disgusting feeling and I'm so sorry this has happened to you, OP.
+GT 1
 Pred 0
-Sentence She is named by me.
-GT 0
+Sentence I just am so happy today
+GT 1
 Pred 0
-Sentence This is clearly coming from a place of immense bitterness.
-GT 0
+Sentence I'm not scared to hide it though, I just let it go.
+GT 1
 Pred 0
-Sentence There's no reason he shouldn't be signing the release.
-GT 0
+Sentence I just went through this same thing.
+GT 1
 Pred 0
-Sentence I don<U+0092>t want anything more.
-GT 0
+Sentence I know how easy it is to lose hope and become cynical but there are people out there who you will make feel complete, and who will make you feel like you never knew you could.
+GT 1
 Pred 0
-Sentence It only gets harder, for sure..
-GT 0
+Sentence Sometimes I turn off the first one but the 6am is a must that I have to wake up.
+GT 1
 Pred 0
-Sentence Why on earth would we suddenly be aborting all of them?
-GT 0
+Sentence He gets up and he goes sky diving and works out and goes to college - getting ready for grad school - completely stress free.
+GT 1
 Pred 0
-Sentence Possible minor in graphic design.
-GT 0
+Sentence They can be proud of his service which is unrelated to how he later acted
+GT 1
 Pred 0
-Sentence This is a good idea
-GT 0
+Sentence Does your boyfriend have a group of friends?
+GT 1
 Pred 0
-Sentence I am in tears of joy.
-GT 0
+Sentence Entire dick pic thing may be simply his current masturbation scenario.
+GT 1
 Pred 0
-Sentence You know you are in ideological territory if ...
-GT 0
+Sentence This is scary and makes me believe he may try to rape you at some point.
+GT 1
 Pred 0
-Sentence It<U+0092>s quite weird to go into any detail at all.
-GT 0
+Sentence It will make your bedroom look (insert fraction of floor space your bed takes up, for me about 33&amp;#37;) better.
+GT 1
 Pred 0
-Sentence Unless SHE decides to press charges or at least remove his power of attorney, there is probably little you can do.
-GT 0
+Sentence Like why are you here, you clearly have no clue what is going on in here!
+GT 1
 Pred 0
-Sentence Is there anyplace for you in that world?
-GT 0
+Sentence Marriage actually does mean nothing.
+GT 1
 Pred 0
-Sentence That means you believe in the ability to change, and progress, and become a more positive version of yourself with the help of past experience.
-GT 0
+Sentence I don<U+0092>t listen to Paradise City once because I once read a statistic that it is the most listened to song when they get in a car accident.
+GT 1
 Pred 0
-Sentence Go and visit the local shelter...a dose of kitty love may cheer you up, and the kitties always need socialization, so they get the best chance to get a home.
-GT 0
+Sentence My husband will pronounce <U+0093>wasn<U+0092>t<U+0094> as <U+0093>wuddent<U+0094> sometimes and it drives me nuts.
+GT 1
 Pred 0
-Sentence I was just so happy to talk about him!
-GT 0
+Sentence Your spouse is not your best friend.
+GT 1
 Pred 0
-Sentence No need to feel offended or affected by merely others peoples views you don't agree with.
-GT 0
+Sentence We named him Loki Nemo.
+GT 1
 Pred 0
-Sentence The main idea was the four pillars, and it was just intro before and development after.
-GT 0
+Sentence But, given the self-harm, she probably needs someone looking out for her.
+GT 1
 Pred 0
-Sentence So will the other people here.
-GT 0
+Sentence I'm hoping that everything goes as smoothly as it can.
+GT 1
 Pred 0
-Sentence Catholics say Peace be with you and I like that
-GT 0
+Sentence I was the initiator but he didn<U+0092>t fight it either.
+GT 1
 Pred 0
-Sentence We really liked that, but now we're skeptical.
-GT 0
+Sentence I feel like new Vegas is really where the formula was perfected.
+GT 1
 Pred 0
-Sentence That<U+0092>s why I decided to share my story.
-GT 0
+Sentence It's even terrible to ask someone if they speak any different languages because you're assuming their heritage.
+GT 1
 Pred 0
-Sentence If it brings you joy, kill the joy by learning its rules!
-GT 0
+Sentence Please don<U+0092>t expect a 14yo to be able to reason that well.
+GT 1
 Pred 0
-Sentence Those are all still possible.
-GT 0
+Sentence (God bless Dad and Viagra.
+GT 1
 Pred 0
-Sentence I'm simply suggesting that every family has a right to assess their family health decisions and choose what they feel is right for them and their children.
-GT 0
+Sentence But I too know how lonely it can be.
+GT 1
 Pred 0
-Sentence You were right to voice that concern, but that:  &gt;I was not happy in the least.
-GT 0
+Sentence I know you're trying to just move on and forget about it, but I think you should talk to her.
+GT 1
 Pred 0
-Sentence It means also archiving pictures of her, texts, e-mails, messages,...
-GT 0
+Sentence I apologize that I initially misunderstood you.
+GT 1
 Pred 0
-Sentence Oh I went through this as well.
-GT 0
+Sentence Huskies is the mascot of my college, and I always love finding cool pictures related to them!
+GT 1
 Pred 0
-Sentence Even if she doesn't believe you and nothing comes from it, it's high time that rapists stop getting the gift of silence.
-GT 0
+Sentence A person does what they do for *reasons*.
+GT 1
 Pred 0
-Sentence Anyway, best thing I can do is learn from my mistakes, right?
-GT 0
+Sentence Every time I see someone flying off the handle at every women they meet and just, fuck man.
+GT 1
 Pred 0
-Sentence She is immature, dumb, insecure and is seeking male attention.
-GT 0
+Sentence To quote that one reddit post: "Today you...tomorrow me."
+GT 1
 Pred 0
-Sentence Are you happy with your current weight???
-GT 0
+Sentence If its only you few guys they may have figured out it was you by process of elimination.
+GT 1
 Pred 0
-Sentence Are they willing to help you out?
-GT 0
+Sentence I'm sure you have considered applying for disability, I know it's a hard process but if it goes through could help provide some cash flow eventually.
+GT 1
 Pred 0
-Sentence I often see both sides, male and female, pushing over the boundaries, and 9/10 times, females get way with it.
-GT 0
+Sentence That will make almost anyone stop doing what they are doing.
+GT 1
 Pred 0
-Sentence However I agree that sexual compatibility is important.
-GT 0
+Sentence If that's what he likes reading, well, that's good.
+GT 1
 Pred 0
-Sentence You've asked enough to get your facts straight.
-GT 0
+Sentence I'm sorry, I can only be absolutely heartless when someone is being a total bastard.
+GT 1
 Pred 0
-Sentence But does your wife also want to get rid of her or is she kinda ok with it?
-GT 0
+Sentence We never wanna "just catch up"
+GT 1
 Pred 0
-Sentence Thank you, it<U+0092>s hard to talk about but harder to keep it in.
-GT 0
+Sentence I have a lot more to think about don<U+0092>t I, haha.
+GT 1
 Pred 0
-Sentence If I make one for myself I have to make an extra one for them.
-GT 0
+Sentence I wasn't trying to invade her privacy.
+GT 1
 Pred 0
-Sentence Apparently car thieves love Swedish fish.
-GT 0
+Sentence Other people brought bags and bags full.
+GT 1
 Pred 0
-Sentence And it felt so fake and unreasonable.
-GT 0
+Sentence Just in case you hide some unpublished autobiography somewhere.
+GT 1
 Pred 0
-Sentence Holy shit, that metaphora was spot on.
-GT 0
+Sentence It is never a reason to let your child sleep in a closet and even without light, a decent bed, or with leaving your clothes hanging in there!
+GT 1
 Pred 0
-Sentence It's hard and emotional, and some carry it with them throughout their lives.
-GT 0
+Sentence I don't really want to be part of that if I can avoid it
+GT 1
 Pred 0
-Sentence So congrats on being brave and bold.
-GT 0
+Sentence There is no such thing as a "non-refundable" airline ticket.
+GT 1
 Pred 0
-Sentence Be open to meeting new people, even possible love interests, but don't hinge your happiness on finding her.
-GT 0
+Sentence It's about a politician who manipulates, blackmails, and murders his way to the top.
+GT 1
 Pred 0
-Sentence I really like what I do, and I'd much rather do that than nothing.
-GT 0
+Sentence That's not your fault, and it doesn't mean that people are judging you.
+GT 1
 Pred 0
-Sentence The problem is that he thinks that this is an acceptable way to treat you and it is never going to stop.
-GT 0
+Sentence As a married man, let him know you feel that way.
+GT 1
 Pred 0
-Sentence That's downright abuse right there.
-GT 0
+Sentence Last thing I got for a friend was a video game she couldn't afford.
+GT 1
 Pred 0
-Sentence Dismissing this dumb comment probably spoke louder than it visibly ruffling your feathers.
-GT 0
+Sentence Their response: ummm... yeah..  but you'll feel more at ease!
+GT 1
 Pred 0
-Sentence It's not easy having a mental illness, either.
-GT 0
+Sentence I do the same thing on Reddit.
+GT 1
 Pred 0
-Sentence Keep a record of it all.
-GT 0
+Sentence The action can't be undone, but you have full control over all the rest of your actions after the wrong one.
+GT 1
 Pred 0
-Sentence Opposite problem 2-3 hours a night if I<U+0092>m lucky
-GT 0
+Sentence You got to hang out with your sis at least
+GT 1
 Pred 0
-Sentence Before I go on, I need to say that I agree with you that what you did was shitty and ending it there before shit hits the fan is the only recourse.
-GT 0
+Sentence You gotta take the reigns at some point.
+GT 1
 Pred 0
-Sentence In that age I wasn't too nervous about meeting other girls my age.
-GT 0
+Sentence If I got her to go out the house, she'd let her hair down and wear sweatpants and a t-shirt.
+GT 1
 Pred 0
-Sentence Insulting me now eh?
-GT 0
+Sentence But, it is what it is, and I'll move on and live my life.
+GT 1
 Pred 0
-Sentence Thank you so much for reading and commenting.
-GT 0
+Sentence Yeah, but she still insists on doing it after all this time.
+GT 1
 Pred 0
-Sentence I hope you can dump her and find someone better soon.
-GT 0
+Sentence Am a German, had to google it, never knew about this.
+GT 1
 Pred 0
-Sentence Supporting people is helping them to be their best selves, not congratulating then for shopping out the shitty high school hurt feelings version.
-GT 0
+Sentence What your bf needs, is more responsibilities.
+GT 1
 Pred 0
-Sentence Not to get him mad or feel bad.
-GT 0
+Sentence Congratulations on going back to school!
+GT 1
 Pred 0
-Sentence And I know these words seem like typical life affirm bull, but maybe when you feel doubts repeat it to yourself.
-GT 0
+Sentence But we<U+0092>ll wait and see.
+GT 1
 Pred 0
-Sentence The first person to talk with, though, is your significant other.
-GT 0
+Sentence It wound up being great but I wasn<U+0092>t able to enjoy it as much as I wanted because of all the stupid stuff.
+GT 1
 Pred 0
-Sentence Then realize no piece of shit is worth that trouble.
-GT 0
+Sentence Fellow vegan here and I second this.
+GT 1
 Pred 0
-Sentence But ill definitely look into it.
-GT 0
+Sentence He<U+0092>s beyond lucky to have you
+GT 1
 Pred 0
-Sentence If you feel like the only reason you<U+0092>re staying with your boyfriend at this point is because you have already invested so much time and energy in the relationship, you<U+0092>re only setting yourself up for more time for all that frustration and resentment to fester until you finally snap and leave anyway.
-GT 0
+Sentence Before completing this comment, I must make note of the fact that your user1me claims you're a jour1list.
+GT 1
 Pred 0
-Sentence If she got bigger boobs, would you not stare a little longer?
-GT 0
+Sentence We basically call it a drive through town.
+GT 1
 Pred 0
-Sentence Also, good on you for no longer giving fucks about masculine vs feminine shit.
-GT 0
+Sentence I know the cliche is that objects distract us from "real life" but I don't see that as exclusively a bad thing.
+GT 1
 Pred 0
-Sentence Your marriage is the foundation your entire family rests on, and bravo for keeping it strong and protecting the romance.
-GT 0
+Sentence I have a friend who's going through this too.
+GT 1
 Pred 0
-Sentence That really sucks, I'm sorry to hear that.
-GT 0
+Sentence Thanks &lt;3 It was a big scare for me in the moment, but I'm fine.
+GT 1
 Pred 0
-Sentence Thats how these things work.
-GT 0
+Sentence Ahh, muito bom :)  Eu quero viver em portugal em 10 anos em uma quinta/fazenda?
+GT 1
 Pred 0
-Sentence Kitchen or grocery store isle.
-GT 0
+Sentence Ditch him and find someone that treats you with respect.
+GT 1
 Pred 0
-Sentence So nice to hear such a wholesome post.
-GT 0
+Sentence She said if I took this advice she would cut my dick off.
+GT 1
 Pred 0
-Sentence Having fun spending your money!
-GT 0
+Sentence Ok, I am going to be the voice of reason here, since everyone else seems to just be blindly supporting you.
+GT 1
 Pred 0
-Sentence Perhaps I would be nervous af too.
-GT 0
+Sentence If you want to talk/rant/whatever, my inbox is open!
+GT 1
 Pred 0
-Sentence You just keep going even though it<U+0092>s so hard
-GT 0
+Sentence Thanks for reading and replying x
+GT 1
 Pred 0
-Sentence Kinda sucks, but also, nothing really that wrong with it.
-GT 0
+Sentence Just bought a kit earlier today.
+GT 1
 Pred 0
-Sentence I'm not what happened to me.
-GT 0
+Sentence &gt; Look like a mountain troll but I have real nice teeth  Ya win some, ya lose some.
+GT 1
 Pred 0
-Sentence Isn't the body the first thing we get to know of someone else?
-GT 0
+Sentence So I'm learning to trust him and let go of stupid details.
+GT 1
 Pred 0
-Sentence Let her feel hurt so she can eventually find someone who actually loves her, because he doesn<U+0092>t.
-GT 0
+Sentence I work on a crisis line that has a sexual assault line as well and they have people specially trained to assist.
+GT 1
 Pred 0
-Sentence Those are major life stress events.
-GT 0
+Sentence Love is what comes after, with time and commitment, and once it's there it'll never go away, even if the person leaves or dies.
+GT 1
 Pred 0
-Sentence Sometimes it<U+0092>s easy to see that they<U+0092>re just shitty people in general.
-GT 0
+Sentence You're not the only one to feel powerless like this.
+GT 1
 Pred 0
-Sentence Exactly- the name of the game is local community and subculture.
-GT 0
+Sentence I collect Jordans the most.
+GT 1
 Pred 0
-Sentence I could do this all day <U+0001F602><U+0001F917>
-GT 0
+Sentence I highly suggest an experience rather than an object.
+GT 1
 Pred 0
-Sentence We do have a seat warmer at home but not when we are visiting family or travelling!
-GT 0
+Sentence And there's lots of declines/mud so I know people will slip :(   Maybe if I can find one that's easy to get to from a parking area yet not well known because they have some beautiful lakes there
+GT 1
 Pred 0
-Sentence Then she just dropped me.
-GT 0
+Sentence Travelling within the EU is easy.
+GT 1
 Pred 0
-Sentence So, without context, I guess yeah... divorce might be on the cards.
-GT 0
+Sentence I have the same thoughts on OSC and the Enderverse!
+GT 1
 Pred 0
-Sentence Once you get to your new school and town, get a job either with your college or with flexible hours because your first year will probably be rough but it<U+0092>s better than constant abuse.
-GT 0
+Sentence We don<U+0092>t have parents that would even dare say sorry in that sub, and boy do we know about the inner demons and feeling empty.
+GT 1
 Pred 0
-Sentence I do remember really enjoying it, but for some reason I just never got around to reading the rest.
-GT 0
+Sentence If your dad were to see what you were doing, how badly do you think his heart would be breaking to see that you are giving up?
+GT 1
 Pred 0
-Sentence It also means that he's free to rewrite the narrative to fit his story, and that can be tricky.
-GT 0
+Sentence But lemme tell you this, everything is still a little fresh.
+GT 1
 Pred 0
-Sentence Depending on the size of your new place, things can get cramped pretty fast.
-GT 0
+Sentence Pill addictions are rampant in hospitals.
+GT 1
 Pred 0
-Sentence This guy seems to think he can find more satisfaction outside of your relationship than in it.
-GT 0
+Sentence I will always eat ice cream if offered.
+GT 1
 Pred 0
-Sentence Why didn<U+0092>t she do something else besides trust her friend?
-GT 0
+Sentence You liked talking to someone, or painting, or doing EMT or whatever it was that you actually enjoyed?
+GT 1
 Pred 0
-Sentence All death hurts but suicide is worse because of the circumstances.
-GT 0
+Sentence There's a   wonderful book called 5 love languages bybGary Chapman.
+GT 1
 Pred 0
-Sentence Can you show us the ring too?
-GT 0
+Sentence I miss being a part of a couple.
+GT 1
 Pred 0
-Sentence As for your last sentence: yes, absolutely.
-GT 0
+Sentence He had artery surgery and developed complications and went into cardiac arrest.
+GT 1
 Pred 0
-Sentence For instance, absence of eye contact can indicate lower self confidence.
-GT 0
+Sentence This must be really tough after being together nearly half your life.
+GT 1
 Pred 0
-Sentence Respond to sane and rational social clues.
-GT 0
+Sentence To heal yourself- you need to acknowledge the loss of your marriage and grieve for the lost future together.
+GT 1
 Pred 0
-Sentence This isn't a reflection on you at all.
-GT 0
+Sentence Politics aside, youre in control of your life.
+GT 1
 Pred 0
-Sentence She had just been standing, talking with another girl.
-GT 0
+Sentence I hope next year is a better year for you and that you will have some positive actions that will turn into good habits.
+GT 1
 Pred 0
-Sentence You don't sound like you *know* him.
-GT 0
+Sentence So, she makes a few more purchases and then she leaves.
+GT 1
 Pred 0
-Sentence But she doesn<U+0092>t really like that because it<U+0092>s more talking at me rather than to me.
-GT 0
+Sentence It<U+0092>s that I keep losing for giving.
+GT 1
 Pred 0
-Sentence And as long as everything seems fine with her, let your mind be at ease.
-GT 0
+Sentence The last I heard was that the parents bodies were recovered, and the child is safely living with his aunt.
+GT 1
 Pred 0
-Sentence Has AoT started their new season?
-GT 0
+Sentence No one does, even those without GAD.
+GT 1
 Pred 0
-Sentence (Honestly I'll probably go home and take a nap lol).
-GT 0
+Sentence And they're there inside you whenever you need them.
+GT 1
 Pred 0
-Sentence A strange response from someone who says way dirtier things than me and who has had many different experiences.
-GT 0
+Sentence The entitled begin their lives and education miles ahead of us, and hope we'll believe the myth of meritocracy, that the best rise to the top, when of course it's obvious that most of the people at the top were born there, or near there.
+GT 1
 Pred 0
-Sentence You were doing so great, why'd you have to go and ruin it!
-GT 0
+Sentence Can someone enlighten me please?
+GT 1
 Pred 0
-Sentence That usually doesn<U+0092>t go super well.
-GT 0
+Sentence And not all "modern" art is provocative.  &gt; In his own words, modern art is terrible, "Because it purposely abandonsand destroys classical principles in the mask that it'll advance art forward but the real product becomes destructive and degenerative.
+GT 1
 Pred 0
-Sentence What is one of your favorite views (for example, the view from a particular hill top or something)?
-GT 0
+Sentence I also don't mean to invalidate the notion that many men DO leave their relationships because they're sexually involved with someone else.
+GT 1
 Pred 0
-Sentence Give him the comfort and love you've been giving him his whole life.
-GT 0
+Sentence I hope this doesn't come across as a sermon, it's not meant to be.
+GT 1
 Pred 0
-Sentence Man I hope this is the fix.
-GT 0
+Sentence You have so much freedom, and meeting groups of people is amazing, because a LOT of groups of people on vacation will gladly scoop up the lone traveler for an activity or two.
+GT 1
 Pred 0
-Sentence It just needs to give more context imo
-GT 0
+Sentence It leaves me feeling happy and sad once I've listened to it.
+GT 1
 Pred 0
-Sentence You are more than welcome to participate in this conversation.
-GT 0
+Sentence What I enjoyed was learning about the people.
+GT 1
 Pred 0
-Sentence Recognizing that is helpful as you will be more gentle with yourself.
-GT 0
+Sentence A lot of people would love to get invited to things.
+GT 1
 Pred 0
-Sentence That was a good post - I agree that to be human is to screw up.
-GT 0
+Sentence I'm glad that you haven't given up yet, because I'm certain that you can find the life you deserve out there somewhere.
+GT 1
 Pred 0
-Sentence &gt;He mutters "Do you want me to?"
-GT 0
+Sentence Which isn't to say it's bad - like I said, I think you need both infatuation and love in a relationship.
+GT 1
 Pred 0
-Sentence Your plane story was really sweet, too!
-GT 0
+Sentence Shit happens, if both your husband and friend are okay afterwards and your relationships remain the same then just accept that this happened and try to move on from it like you would any other unexpected event.
+GT 1
 Pred 0
-Sentence find the silver lining in it all. you sound like an amazing mom!
-GT 0
+Sentence Drives me nuts when someone forms an opinion without trying it first.
+GT 1
 Pred 0
-Sentence But when he saw a homeless person asking for money, he gave him the penny.
-GT 0
+Sentence Maybe text her and invite her for a drink sometime if you really need.
+GT 1
 Pred 0
-Sentence I don<U+0092>t know where you<U+0092>ve got that idea from.
-GT 0
+Sentence Congrats on the better sleep, and the lowered risk of cardiavascular problems!
+GT 1
 Pred 0
-Sentence One excuse after another "they are gold diggers" , or "if only I were taller." or "if only I had muscles like that black guy." or "if only I had A beard."
-GT 0
+Sentence Yup, I'm not taking any chances.
+GT 1
 Pred 0
-Sentence That really is the worst part.
-GT 0
+Sentence Research indicates that memories from teenage years appear to be most vivid.
+GT 1
 Pred 0
-Sentence * Don't look her up on social media.
-GT 0
+Sentence Did I ever say that cheating was ok??
+GT 1
 Pred 0
-Sentence You're young as fuck dude, keep telling yourself you have time.
-GT 0
+Sentence He was there avoiding studying and hanging out with some friends.
+GT 1
 Pred 0
-Sentence Your reluctance to commit threatens his long term prospects.
-GT 0
+Sentence Also, just curious, how did you find out she called you a fat ugly bitch?
+GT 1
 Pred 0
-Sentence I<U+0092>m only 24 years old and don<U+0092>t have any answers, but I<U+0092>m here if you want to talk
-GT 0
+Sentence I<U+0092>m going to call the police tomorrow since there<U+0092>s no chance of it happening now and then.
+GT 1
 Pred 0
-Sentence Check out LinusTechTips on Youtube for their Building a PC videos, they're hilarious and go over everything you can expect when you build your computer.
-GT 0
+Sentence You can make so much!
+GT 1
 Pred 0
-Sentence Each of these comes with its brand of matter-of-facters
-GT 0
+Sentence It's nice to hear these stories about people having a good time with friends they've met.
+GT 1
 Pred 0
-Sentence There really is no rush.
-GT 0
+Sentence I hope so too, although it's scary.
+GT 1
 Pred 0
-Sentence Also, when they go to high school, try to find a charter or something else progressive.
-GT 0
+Sentence I bet it<U+0092>s destiny 2.
+GT 1
 Pred 0
-Sentence I an so, so sorry for your loss.
-GT 0
+Sentence So I don't think it was because of something I did.
+GT 1
 Pred 0
-Sentence Protect you, your child and your sister.
-GT 0
+Sentence Imagine you didn't have a leg and had a prosthetic instead.
+GT 1
 Pred 0
-Sentence If you love their pups, see if you can afford to take them.
-GT 0
+Sentence They honestly have no excuse [your friend I mean] to not hang out...seems like his priorities are elsewhere (especially since you're moving and he'll never see you again.
+GT 1
 Pred 0
-Sentence What he said is really gross, joke or not.
-GT 0
+Sentence Oh how I hated that man.
+GT 1
 Pred 0
-Sentence "We climbed this thing together!"
-GT 0
+Sentence Just know that she<U+0092>ll probably start to feel <U+0093>normal<U+0094> once she steadies out with a medication and she may stop taking them because she<U+0092>ll think she doesn<U+0092>t need them anymore.
+GT 1
 Pred 0
-Sentence You're stuck in todo's, strict estimates, user stories, bug reports, etc., etc.
-GT 0
+Sentence There is no shame in seeking treatment - it shows that you're taking responsibility for your health.
+GT 1
 Pred 0
-Sentence She probably talks about spiders.
-GT 0
+Sentence Do you think your mom was abused previously?
+GT 1
 Pred 0
-Sentence WAIT to have kids, come back with your hubby.
-GT 0
+Sentence I nominate you for "Most Likely to Meet the Love of Their Life" in 3...2...1...
+GT 1
 Pred 0
-Sentence or with the lady in this case
-GT 0
+Sentence I know why you miss it.
+GT 1
 Pred 0
-Sentence Have a friend stay the night (exposure therapy).
-GT 0
+Sentence Don't forget to feel all of the feelings though, that's important.
+GT 1
 Pred 0
-Sentence I felt really good about that!
-GT 0
+Sentence I would run out of ways to politely uninviting her.
+GT 1
 Pred 0
-Sentence I wanted to say the generic <U+0093>blah leave him blah<U+0094> but I read your post history and see it isn<U+0092>t so simple.
-GT 0
+Sentence She had strong enough suspicion to turn over the hard drives, and what a surprise, there<U+0092>s CP on them.
+GT 1
 Pred 0
-Sentence Why do they think it was suicide?
-GT 0
+Sentence This is the first time it stuck.
+GT 1
 Pred 0
-Sentence I appreciate you taking the time to respond to my post, it really means a lot.
-GT 0
+Sentence I got motivated and got my shit together.
+GT 1
 Pred 0
-Sentence It's okay to be alone!
-GT 0
+Sentence I my best to you both!
+GT 1
 Pred 0
-Sentence The Truth of the matter is her life had not been her own for over 50 years.
-GT 0
+Sentence It's true that we never know what happens behind closed doors.
+GT 1
 Pred 0
-Sentence I see where your mind lies.
-GT 0
-Pred 0
-Sentence Here we come, 2018! :)
-GT 0
-Pred 0
-Sentence All your data should never be in less than 2 places at any time.
-GT 0
-Pred 0
-Sentence She didn't take vows to be devoted to you.
-GT 0
-Pred 0
-Sentence We humans are all here for a purpose and you are the only person like you.
-GT 0
-Pred 0
-Sentence We've talked about it before.
-GT 0
-Pred 0
-Sentence If you<U+0092>re happy with that then I think that says more about you than your parents.
-GT 0
-Pred 0
-Sentence I really am sorry you are dealing with this, friend.
-GT 0
-Pred 0
-Sentence Think about what the opposite of fear, anger, and sadness is...
-GT 0
-Pred 0
-Sentence Edited to ask: what<U+0092>s your favorite?
-GT 0
-Pred 0
-Sentence Things can be awkward between people who haven't seen eachother in a long time and that is perfectly normal.
-GT 0
-Pred 0
-Sentence I have no patience for it.
-GT 0
-Pred 0
-Sentence Has teas from a couple of different online vendors along with a few more rare ones.
-GT 0
-Pred 0
-Sentence Probably Chile, if I could get to that big radio observatory they have in the Atacama Desert.
-GT 0
-Pred 0
-Sentence Also I read an unhealthy amount of comic books(mostly DC).
-GT 0
-Pred 0
-Sentence In regards to fiction, I enjoy horror and dark fantasy a lot.
-GT 0
-Pred 0
-Sentence Also dish out the bad news to your friends and family.
-GT 0
-Pred 0
-Sentence Just make sure you study something that you won't feel stuck feeling because then you'd be back at square one huh.
-GT 0
-Pred 0
-Sentence I<U+0092>m so happy you<U+0092>ve found happiness
-GT 0
-Pred 0
-Sentence You contact your local school district first to find out who runs early intervention near you (district or iu).
-GT 0
-Pred 0
-Sentence They knew it was coming soon, yet it still hit like a ton of bricks.
-GT 0
-Pred 0
-Sentence Staying home alone is no crime, unless you make that choice out of being self conscious.
-GT 0
-Pred 0
-Sentence Eat your favorite food and stare at the stars.
-GT 0
-Pred 0
-Sentence Getting healthy and staying on the habits is a helluva fight of willpower as well, man. don't sell yourself short.
-GT 0
-Pred 0
-Sentence I say this as first person experience.
-GT 0
-Pred 0
-Sentence I'm sorry to say this but statistically the only reason a man will leave a relationship with a woman he is sleeping with, is because he is sleeping with a different one and can't maintain both.
-GT 0
-Pred 0
-Sentence Well, the good thing about it, it is only a sticker, and if you don't like it, you can peel it off!
-GT 0
-Pred 0
-Sentence Seems like it comes so naturally to other people doesn't it haha
-GT 0
-Pred 0
-Sentence then you know how to become that person again, it<U+0092>ll just be harder. now that you<U+0092>ve hit rock bottom you can only go up from here. if you ever need to talk i<U+0092>m here, i<U+0092>ll watch this chat. you<U+0092>ve got this.
-GT 0
-Pred 0
-Sentence It<U+0092>s honestly not any Christians right to judge.
-GT 0
-Pred 0
-Sentence Everyone makes a mistake, especially when they're blinded by whatever goggles they happen to be wearing at the moment.
-GT 0
-Pred 0
-Sentence In a time that we can let abuse survivors know that what they went through is not okay and those that are the perpetrators will be punished.
-GT 0
-Pred 0
-Sentence I suppose those front things were for the sun?
-GT 0
-Pred 0
-Sentence Don't let noone crush you.
-GT 0
-Pred 0
-Sentence Yeah, I completely understand what you mean.
-GT 0
-Pred 0
-Sentence That all the time you spent on those things is lost.
-GT 0
-Pred 0
-Sentence Also, don't let yourself fall into the trap of being "too mature" for old interests.
-GT 0
-Pred 0
-Sentence Summoners war is mainly just a summoning sort of monster collecting game, with the main part of the game just doing dungeons to improve them to rank higher in arena.
-GT 0
-Pred 0
-Sentence This story doesn't add up, and your post history is questionable at best.
-GT 0
-Pred 0
-Sentence Just know that you are not alone in that feeling.
-GT 0
-Pred 0
-Sentence I find the worldbuilding too inconsistent and the magic non-sensical haha.
-GT 0
-Pred 0
-Sentence My family and friends say the same thing.
-GT 0
-Pred 0
-Sentence Ok... so here we go...
-GT 0
-Pred 0
-Sentence I wonder why did you delete the post in /r/DeadBedrooms ten minutes ago then.
-GT 0
-Pred 0
-Sentence You think no\-kill is taking fucking snakes?
-GT 0
-Pred 0
-Sentence I feel like when kids reach the kindergarten age they become much more lovable.
-GT 0
-Pred 0
-Sentence Surrounding yourself with people who build you up and genuinely make you happy will help.
-GT 0
-Pred 0
-Sentence Hit the woman into her face live on TV (really happened last year)?
-GT 0
-Pred 0
-Sentence If you<U+0092>re girl/boyfriend you are past dating, and with it I would expect monogamy by that stage (I wouldn<U+0092>t necessarily expect it during dating)
-GT 0
-Pred 0
-Sentence I really miss the comfort of having someone to talk to and be there for me.
-GT 0
-Pred 0
-Sentence You have helped many involved in this mans life - and possible death- ease through the transition.
-GT 0
-Pred 0
-Sentence For more information and help you can look at www.rainn.org and www.1in6.org
-GT 0
-Pred 0
-Sentence You could perhaps invite him to the gym with you in that case.
-GT 0
-Pred 0
-Sentence You're doing great, it's ok to be exactly where you are!
-GT 0
-Pred 0
-Sentence But its been eating away at me very badly.
-GT 0
-Pred 0
-Sentence That's rough. :(   Hopefully, you can meet more people and even find other friends here, this is a pretty cool sub for that.
-GT 0
-Pred 0
-Sentence Especially the older she gets.
-GT 0
-Pred 0
-Sentence Do you at least have other friends that you can call real friends?
-GT 0
-Pred 0
-Sentence Just when the numbness wears off, do not turn to drugs or alcohol.
-GT 0
-Pred 0
-Sentence But I luckily thought out of myself in that moment and realize that it's not you, it's her.
-GT 0
-Pred 0
-Sentence Just as we are all unique so are our relationships with God.
-GT 0
-Pred 0
-Sentence I would be worried about her cheating seriously
-GT 0
-Pred 0
-Sentence The meaning of life is that it ends.
-GT 0
-Pred 0
-Sentence I made a comment on this post recently and i felt i was being way to mean and aggressive about it, this subreddit is meant to be a supportive place and i crossed a line.
-GT 0
-Pred 0
-Sentence Maybe they'll let you pay off small installments?
-GT 0
-Pred 0
-Sentence I really hope that won't be the case...
-GT 0
-Pred 0
-Sentence Careful you don't end up as just a rebound fling...
-GT 0
-Pred 0
-Sentence Do you go to shopping/grocery/cinema/ other place alone ?
-GT 0
-Pred 0
-Sentence Like what the hell how easy can it be to fake shit like this and just get away with it?!?!?!
-GT 0
-Pred 0
-Sentence You are able to take matters into your own hands, because you are a person capable of anything you set your mind to.
-GT 0
-Pred 0
-Sentence Also, you really shouldn't play the victim here.
-GT 0
-Pred 0
-Sentence Thank you, and just so you know.
-GT 0
-Pred 0
-Sentence He did become angry and bitter about it all, there was a lot of fighting and tension.
-GT 0
-Pred 0
-Sentence Also, I love the Golf R.
-GT 0
-Pred 0
-Sentence I never was good at making little stories for things.
-GT 0
-Pred 0
-Sentence They announced at church that he'd been in accident.
-GT 0
-Pred 0
-Sentence You<U+0092>re very welcome and please don<U+0092>t feel silly.
-GT 0
-Pred 0
-Sentence Laughter helps us cope with trauma which is why I can understand that there were jokes in the first place.
-GT 0
-Pred 0
-Sentence I'm sorry for your loss, and it's pretty shitty that this happened.
-GT 0
-Pred 0
-Sentence She got into our house with a grocery store discount card.
-GT 0
-Pred 0
-Sentence There's no "way it works" for these things, it's different for everyone.
-GT 0
-Pred 0
-Sentence It's not just looking older.
-GT 0
-Pred 0
-Sentence Good call on handling this by the book.
-GT 0
-Pred 0
-Sentence People who commit these kind of crimes are frighteningly good at deceiving everyone around them.
-GT 0
-Pred 0
-Sentence Additionally (edit: besides women who simply take time off unpaid when their employers do not offer any benefits or qualify to have to follow FMLA), there are plenty of employers who DO offer paternity leave.
-GT 0
-Pred 0
-Sentence Don't be afraid of telling your family you need a night off.
-GT 0
-Pred 0
-Sentence He must be or know someone important.
-GT 0
-Pred 0
-Sentence Your college should have clubs that are open to you.
-GT 0
-Pred 0
-Sentence It<U+0092>s interesting that in one hand you are upset about generalizing of all males, but then you generalize feminist.
-GT 0
-Pred 0
-Sentence Im glad this could give you hope!
-GT 0
-Pred 0
-Sentence It was very nice and soft.
-GT 0
-Pred 0
-Sentence Ugh thats so unreasonable though:O
-GT 0
-Pred 0
-Sentence I never thought strangers' comments on the internet would be this comforting
-GT 0
-Pred 0
-Sentence While it is possible to get pregnant from pre cum it honestly doesn't happen often.
-GT 0
-Pred 0
-Sentence Jesus, this guy is an absolute shit bag.
-GT 0
-Pred 0
-Sentence They're 12 years old so I'm hoping they're on an old HD.
-GT 0
-Pred 0
-Sentence Anything that helped him get back on his feet, either with the agency or elsewhere, was worthwhile.
-GT 0
-Pred 0
-Sentence You're clearly tech-savvy, can you text him?
-GT 0
-Pred 0
-Sentence Hopefully, he'll take it to heart.
-GT 0
-Pred 0
-Sentence Especially ones from the south.
-GT 0
-Pred 0
-Sentence You need to take time for things that you want to do that don<U+0092>t involve her.
-GT 0
-Pred 0
-Sentence You're not responsible for her actions; you're responsible for you.
-GT 0
-Pred 0
-Sentence Good the frame is being checked.
-GT 0
-Pred 0
-Sentence When you are in for that type of thing, you make sure to let your partner know and see if they want the same, not lead them on till last minute when you have the option to jump ship.
-GT 0
-Pred 0
-Sentence solve for this  PMT should be = 4200 / 12 =$350  So yeah, that's how they did it.
-GT 0
-Pred 0
-Sentence It's been about a month?
-GT 0
-Pred 0
-Sentence I agree with you on that one.
-GT 0
-Pred 0
-Sentence It can be so broad.
-GT 0
-Pred 0
-Sentence She was also hit by a car.
-GT 0
-Pred 0
-Sentence Welp something like 90% of all mainstream pornos end with a facial, people masturbate to it, they climax, they have conditioned themselves to it now.
-GT 0
-Pred 0
-Sentence I hope being able to share this helped you cope.
-GT 0
-Pred 0
-Sentence If he's been an abusive dick, well, take from that what you need.
-GT 0
-Pred 0
-Sentence I was checking the show times and realised that 'tomorrow' was the last day.
-GT 0
-Pred 0
-Sentence Or that you dismiss the effect of alcohol poisoning on the brain.
-GT 0
-Pred 0
-Sentence Are there no free clinics or or some organizations that can help you out?
-GT 0
-Pred 0
-Sentence Call your local hospital and ask if they know of any local groups that help with healing from abuse.
-GT 0
-Pred 0
-Sentence They're all losses, and grief is grief.
-GT 0
-Pred 0
-Sentence There is a couple other colors that glow though.
-GT 0
-Pred 0
-Sentence I'm not huge into faith, but some part of me believes that somewhere out there, Thomas is reading your text and smiling down upon you.
-GT 0
-Pred 0
-Sentence I'm glad to hear that everything worked out for you.
-GT 0
-Pred 0
-Sentence So long as you post bullshit like this you will be filed in my brain and the brains of my children as sick people incapable of accepting reality.
-GT 0
-Pred 0
-Sentence I think the important thing is to clear the air, apologize without any kind of addition, and then explain what you meant earlier.
-GT 0
-Pred 0
-Sentence You have to know the history and have to really sit with the music for an extended period of time to understand it.
-GT 0
-Pred 0
-Sentence It's about living the fullest life now and experiencing that peace and serenity in this life.
-GT 0
-Pred 0
-Sentence It can seem radical, especially if you aren't familiar with anorexia.
-GT 0
-Pred 0
-Sentence I appreciate knowing that you actually listen and care for them, a gift that reflects their wants and needs it means the world to them.
-GT 0
-Pred 0
-Sentence Or maybe another lady friend.
-GT 0
-Pred 0
-Sentence Animal shelters make me more depressed to be honest, I<U+0092>m sorry these aren<U+0092>t viable options!
-GT 0
-Pred 0
-Sentence But I will try harder.
-GT 0
-Pred 0
-Sentence Well, do you have a favorite park or library in your town that you like to go?
-GT 0
-Pred 0
-Sentence Some men are attracted to younger women just like some women are attracted to men with stable incomes who can provide.
-GT 0
-Pred 0
-Sentence People are just bashing the country they live in and pretending Europe is 100 times better without knowing anything about it.
-GT 0
-Pred 0
-Sentence To OP: it'll take some time, but you'll feel better and get everything back on track soon enough.
-GT 0
-Pred 0
-Sentence It doesn't harm anyone either (in a way that getting angry or evading could).
-GT 0
-Pred 0
-Sentence Have you spoken with her in the past 20 years?
-GT 0
-Pred 0
-Sentence If you ever want to pm me even to vent feel free, I'm here to listen.
-GT 0
-Pred 0
-Sentence My favorite quote from my father "do me a favor and die alittle inside."
-GT 0
-Pred 0
-Sentence *Let the body shit the floor let the body shit the floor...
-GT 0
-Pred 0
-Sentence I agree that CBT in its own is rarely useful.
-GT 0
-Pred 0
-Sentence Maybe your husband doesn't get it.
-GT 0
-Pred 0
-Sentence I almost kinda want to bring up this double standard to him... thank you for listening and your advice
-GT 0
-Pred 0
-Sentence Well then why not work 2 more shifts the next 2 weeks?
-GT 0
-Pred 0
-Sentence You have a subconscious mind.
-GT 0
-Pred 0
-Sentence What shouldn't be happening is your wife allowing herself to act on that crush.
-GT 0
-Pred 0
-Sentence But well done you for catching yourself and realising!
-GT 0
-Pred 0
-Sentence Resentment festers and is toxic for everyone.
-GT 0
-Pred 0
-Sentence I tend to take things at face value too, a bit.
-GT 0
-Pred 0
-Sentence to=/r/CasualConversation&amp;subject=My submission was removed&amp;message=I have a question regarding the removal of this [submission](https://www.reddit.com/r/CasualConversation/comments/8fpql3/i_went_into_a_small_town_gun_shop_today/\)<U+21E2>) ^directly ^for ^appeals.
-GT 0
-Pred 0
-Sentence Go do things you enjoy, and talk to people also doing those things.
-GT 0
-Pred 0
-Sentence Maybe it's a sport or challenge, like start working out and see if you can work up to running five miles in 40 minutes, benching 280, and/or squatting 600.
-GT 0
-Pred 0
-Sentence Omg the oils guy sounds really great.
-GT 0
-Pred 0
-Sentence [3 hours and not a single comment?](
-GT 0
-Pred 0
-Sentence At least I didn't accuse you of a fake action.
-GT 0
-Pred 0
-Sentence I think you're doing the right thing.
-GT 0
-Pred 0
-Sentence The detective that called me to ask me if I knew any info mentioned that they can't legally unencrypt the drive unless she claims ownership of it?
-GT 0
-Pred 0
-Sentence Your wife is obviously someone that means a great deal to you.
-GT 0
-Pred 0
-Sentence Wow, I really wasn't expecting a response like this, a lot to think about here.
-GT 0
-Pred 0
-Sentence Doesn't consider the fact that I'm waiting at all.
-GT 0
-Pred 0
-Sentence Denial of that can cause many problems.
-GT 0
-Pred 0
-Sentence Trust me it will help so long as the counsellor isnt a douche.
-GT 0
-Pred 0
-Sentence You are clearly clever and a hard worker, not to mentioj a decent person.
-GT 0
-Pred 0
-Sentence You can also speak to the people/companies you're paying bills to and explain your situation.
-GT 0
-Pred 0
-Sentence Focus on you and how much better a person you are than them.
-GT 0
-Pred 0
-Sentence I can't imagine going through such a loss.
-GT 0
-Pred 0
-Sentence Just so you guys know they don't promise you to make money lol.
-GT 0
-Pred 0
-Sentence Words cannot describe how you make me feel.
-GT 0
-Pred 0
-Sentence I bet we could all help her fet a cheap car or something so she doesnt have to take the bus
-GT 0
-Pred 0
-Sentence Let<U+00B4>s hope I can manage to save them for march...
-GT 0
-Pred 0
-Sentence I just wish I could hurry up and get there.
-GT 0
-Pred 0
-Sentence I think we need to be more articulate with our feelings.
-GT 0
-Pred 0
-Sentence There is no reason he should be getting grinds in his cup, and the aeropress absolutely doesn<U+0092>t need to dry between uses.
-GT 0
-Pred 0
-Sentence I never really know what to say...
-GT 0
-Pred 0
-Sentence Sounds like a win-win if your husband doesn<U+0092>t want the calls.
-GT 0
-Pred 0
-Sentence Seeriously, you only think about yourself and what you want, at the moment.
-GT 0
-Pred 0
-Sentence Some people are really, really insecure about their relationships, and anyone of the same sex hanging out with their SO can be seen as a threat to their relationship.
-GT 0
-Pred 0
-Sentence He deserved a good b day this year.
-GT 0
-Pred 0
-Sentence I looked for receipts, paper work, and I haven't been able to find anything.
-GT 0
-Pred 0
-Sentence Sometimes you just need to realize when to cut your loses
-GT 0
-Pred 0
-Sentence They are around 100 dollars.
-GT 0
-Pred 0
-Sentence Yeah, there is definitely an attraction to it, but it just isn't a dealbreaker for guys.
-GT 0
-Pred 0
-Sentence Or just eat a ton of raw garlic
-GT 0
-Pred 0
-Sentence Don<U+0092>t waste your time, he was debunked in Personal Finance.
-GT 0
-Pred 0
-Sentence You're amazing for the work you do.
-GT 0
-Pred 0
-Sentence I guess I'm not the best person to take advice from since I'm so lax about it all, so I apologize for not being much help there.
-GT 0
-Pred 0
-Sentence He does dump out the old grinds and use a new filter, so I'm not sure what's going on.
-GT 0
-Pred 0
-Sentence Don<U+0092>t just wait for others to step in and <U+0093>rescue<U+0094> you or politely check in after the boss leaves.
-GT 0
-Pred 0
-Sentence Think of it this way.
-GT 0
-Pred 0
-Sentence As long as it's not effecting your life in a negative way, you don't need to curb your desires.
-GT 0
-Pred 0
-Sentence It<U+0092>s a hideous pain like no other because you<U+0092>re mourning the loss of a very real person; that person just didn<U+0092>t exist except in your heart.
-GT 0
-Pred 0
-Sentence You might feel like you are just unlucky, or that you just can't deal with pain, but in reality you might have a lot more pain than other people, and it may be from one cause, even though it all might seem somewhat unrelated.
-GT 0
-Pred 0
-Sentence Happy to talk if you want.
-GT 0
-Pred 0
-Sentence They also like laptops, cell phones, and the book you're reading.
-GT 0
-Pred 0
-Sentence Yeah I've heard a lot about it so I got it when I went to the book store.
-GT 0
-Pred 0
-Sentence If the first LCSW or group you see isn't a good fit for you find another.
-GT 0
-Pred 0
-Sentence From what I gather in Europe they don't include the medal in their packets.
-GT 0
-Pred 0
-Sentence What were some of the red flags?
-GT 0
-Pred 0
-Sentence I can't even begin to understand what that feels like.
-GT 0
-Pred 0
-Sentence Stop, be chill, care more about yourself than girls, you are way more attractive when you're driven by your passion
-GT 0
-Pred 0
-Sentence All she did was spill some juice on the floor and got spanked for it.
-GT 0
-Pred 0
-Sentence Okay so I really hope that didn't come off super creepy, if it did I am so sorry.
-GT 0
-Pred 0
-Sentence Wow, you admit she's exhausted and stressed, and basically tell her if she dosent like it to leave.
-GT 0
-Pred 0
-Sentence It made sense to me :)
-GT 0
-Pred 0
-Sentence I got no red flags.
-GT 0
-Pred 0
-Sentence I should also say sorry if it's a jumbled mess and none of what I wrote makes much sense.
-GT 0
-Pred 0
-Sentence Fuck everything and everyone else.
-GT 0
-Pred 0
-Sentence As for the comments about religion, I'm sure they mean well, unfortunately there's really no way to console grieving parents.
-GT 0
-Pred 0
-Sentence It is incredibly disturbing and poor decision-making, but not as uncommon as you may think.
-GT 0
-Pred 0
-Sentence Did you top up on gas?
-GT 0
-Pred 0
-Sentence This would suck worst for her.
-GT 0
-Pred 0
-Sentence We need more of that in the world.
-GT 0
-Pred 0
-Sentence You<U+0092>ll find someone who won<U+0092>t just run out the moment you get stuck in a rut.
-GT 0
-Pred 0
-Sentence I was there for a few minutes being moderately helpful but just thinking all I had to do was to bridge the gap until the professionals showed up and when they did I was so grateful.
-GT 0
-Pred 0
-Sentence This was a tragically beautiful story.
-GT 0
-Pred 0
-Sentence I just wanted to clarify some things.
-GT 0
-Pred 0
-Sentence You<U+0092>re good at what you do!
-GT 0
-Pred 0
-Sentence Without a shadow of a doubt.
-GT 0
-Pred 0
-Sentence Damn, that<U+0092>s an understandable situation that might<U+0092>ve had a big impact on your parent.
-GT 0
-Pred 0
-Sentence I don't think he considers it a threat.
-GT 0
-Pred 0
-Sentence You are beautiful and even more so because of the scars.
-GT 0
-Pred 0
-Sentence You can hire me, a machinist extraordinaire, to make you some badass weaponry!
-GT 0
-Pred 0
-Sentence I dunno, "weird"/unpopular with others, I have a hard time justifying adding it.
-GT 0
-Pred 0
-Sentence Just picture you were going to eat dinner and checked the fridge.
-GT 0
-Pred 0
-Sentence Damn, that's pretty fast girl!
-GT 0
-Pred 0
-Sentence All these traits and patterns you mentioned about her, are things that you probably would know before getting married.
-GT 0
-Pred 0
-Sentence Thank you for telling me :)
-GT 0
-Pred 0
-Sentence It will hurt her feelings but unless you want to end the relationship, I don't see how else you can fix the situation
-GT 0
-Pred 0
-Sentence Can you talk to her and get some advice?
-GT 0
-Pred 0
-Sentence You<U+0092>ve given her more than enough time.
-GT 0
-Pred 0
-Sentence Being weird is cool now.
-GT 0
-Pred 0
-Sentence Tours also provide information on CPR or parenting classes.
-GT 0
-Pred 0
-Sentence Give the guy a break.
-GT 0
-Pred 0
-Sentence <U+0093>Life can only be understood backwards; but it must be lived forwards.<U+0094>
-GT 0
-Pred 0
-Sentence I miss her a lot.
-GT 0
-Pred 0
-Sentence I think there is a real problem with the system we have.
-GT 0
-Pred 0
-Sentence Please do the both of yourselves royal favors and always be there for each other.
-GT 0
-Pred 0
-Sentence But people who act as gatekeepers for mental illness despite having no certification for diagnosis themselves suck too.
-GT 0
-Pred 0
-Sentence This above all: to thine own self be true...
-GT 0
-Pred 0
-Sentence Maybe more affectionate and less independent?
-GT 0
-Pred 0
-Sentence I found that that guy either wasn't really a doctor or was just kind of gone rogue.
-GT 0
-Pred 0
-Sentence I wish I could offer you more than empathy.
-GT 0
-Pred 0
-Sentence If you decide not to, that's totally fair and okay.
-GT 0
-Pred 0
-Sentence It's just nothing I've had to deal with before
-GT 0
-Pred 0
-Sentence I promise it doesnt exist in social media.
-GT 0
-Pred 0
-Sentence Keep your eye on both of them, if she's a mutant the child may be also...
-GT 0
-Pred 0
-Sentence Bruh.. boyfriend coming in here.
-GT 0
-Pred 0
-Sentence I<U+0092>m actually excited to try it maybe after a little hiatus (or not idk).
-GT 0
-Pred 0
-Sentence I<U+0092>m talking about how he feels.
-GT 0
-Pred 0
-Sentence If you love them, keep them.
-GT 0
-Pred 0
-Sentence I feel like I<U+0092>d love it.
-GT 0
-Pred 0
-Sentence You can keep trying because there's always always ALWAYS someone bound to appreciate you the way you want.
-GT 0
-Pred 0
-Sentence 2) ...try to sleep 10:30-06:00.
-GT 0
-Pred 0
-Sentence But if your girlfriend acts the way she does, it seems the whole relationship was not important to her in the first place.
-GT 0
-Pred 0
-Sentence Worry about that later, right now you need to mourn and learn to love yourself again.
-GT 0
-Pred 0
-Sentence That is an inaccurate statement.
-GT 0
-Pred 0
-Sentence The only thing you do is notice your breathing.
-GT 0
-Pred 0
-Sentence How does it feel to be with such a nice guy like me?
-GT 0
-Pred 0
-Sentence Be kinder to yourself and love yourself for who you are and love the story that created you.
-GT 0
-Pred 0
-Sentence You aren't the only person, my friend.
-GT 0
-Pred 0
-Sentence All because he wanted to know how my day was.
-GT 0
-Pred 0
-Sentence Your girlfriend sounds pretty special, dude.
-GT 0
-Pred 0
-Sentence I don't really know what to say, but it seems important to you so I thought I'd let you know I read it all the way through.
-GT 0
-Pred 0
-Sentence I don't know if it will help you at all, but I remember a post from some months ago [detailing how to get the most from an insurance negotiation.](https://www.reddit.com/r/Austin/comments/5bjds7/my_4runner_was_stolen_last_night_near_krebs_and_s/d9pztwq/) May not be perfect, but hey, I think it helps to be prepared.
-GT 0
-Pred 0
-Sentence I just have no taste for dancing.
-GT 0
-Pred 0
-Sentence I told her I wished her all the best in life, and headed out.
-GT 0
-Pred 0
-Sentence But it was not for nothing.
-GT 0
-Pred 0
-Sentence Got to two weeks, and I stopped.
-GT 0
-Pred 0
-Sentence Oftentimes the process is challenging for everyone involved.
-GT 0
-Pred 0
-Sentence Also, as a dude I can say that Dudes are dumb.
-GT 0
-Pred 0
-Sentence I'd actually suggest a pair of rats instead of guinea pigs.
-GT 0
-Pred 0
-Sentence However her mom has offered to do it just hopefully she doesn't back out.
-GT 0
-Pred 0
-Sentence Even if it's for the study I'm willing to pay it.
-GT 0
-Pred 0
-Sentence Thank you, it really was a transformation.
-GT 0
-Pred 0
-Sentence That is a massive undertaking.
-GT 0
-Pred 0
-Sentence But I'm here if you need to talk to anyone and give you an unbias opinion.
-GT 0
-Pred 0
-Sentence Also when travelling, when hitting a calmer spot... and if she gets nervous you change back.
-GT 0
-Pred 0
-Sentence It's a bad situation all around, and all the options are bad.
-GT 0
-Pred 0
-Sentence It<U+0092>s not like your wife gained 10lbs.
-GT 0
-Pred 0
-Sentence That is a rare find.
-GT 0
-Pred 0
-Sentence Although I don<U+0092>t blame his ex.
-GT 0
-Pred 0
-Sentence A woman called 911 on us and told them it looked like a man wanted to hurt me.
-GT 0
-Pred 0
-Sentence And omg your point about skincare at the end.
-GT 0
-Pred 0
-Sentence Could be worse, could get worse.
-GT 0
-Pred 0
-Sentence There are two ways to look at the sit.
-GT 0
-Pred 0
-Sentence Calm down ,you feel that empty can i ask what are your religious beliefs?
-GT 0
-Pred 0
-Sentence I'll let you know if I'll be free.
-GT 0
-Pred 0
-Sentence Beg, borrow, steal, whatever it takes, do it to keep yourself far far away from them.
-GT 0
-Pred 0
-Sentence Idc if I get downvotes.
-GT 0
-Pred 0
-Sentence After all, you can be successful yet still not be content.
-GT 0
-Pred 0
-Sentence It was  black, blue, green, yellow for 2 weeks!
-GT 0
-Pred 0
-Sentence Make it before you leave and bring it in a tupperware.
-GT 0
-Pred 0
-Sentence <U+0093>That<U+0092>s my girl,<U+0094> said Sigurd.
-GT 0
-Pred 0
-Sentence But he wants her... this should tell you this isn't fine
-GT 0
-Pred 0
-Sentence You really made me feel your pain and see everything in my mind.
-GT 0
-Pred 0
-Sentence Do good things for someone either less fortunate, or less able than yourself.
-GT 0
-Pred 0
-Sentence Right, I don't know why people keep downvoting OP.
-GT 0
-Pred 0
-Sentence At least thats what i would do.
-GT 0
-Pred 0
-Sentence Don<U+0092>t even get me started, jk.
-GT 0
-Pred 0
-Sentence Your best effort, both of you.
-GT 0
-Pred 0
-Sentence If you can, try to find a trauma specialist to help you cope.
-GT 0
-Pred 0
-Sentence Or maybe it just really liked the scent.
-GT 0
-Pred 0
-Sentence Don't worry, it's worth the wait ;)
-GT 0
-Pred 0
-Sentence There are advertisements telling you not to get Invisalign?
-GT 0
-Pred 0
-Sentence Anything that will help... oh lucky shamrocks for tomorrow!
-GT 0
-Pred 0
-Sentence It's not black and white like you make it appear.
-GT 0
-Pred 0
-Sentence I understand what you just wrote, but you are 100% wrong.
-GT 0
-Pred 0
-Sentence I hope it's his first step to living the rest of his life in a good and healthy spot.
-GT 0
-Pred 0
-Sentence And just remember: they've seen your CV and they think that you might be the right person for the job.
-GT 0
-Pred 0
-Sentence And even if it doesn't, it's definitely not worth ending it.
-GT 0
-Pred 0
-Sentence I hope you feel better soon :)
-GT 0
-Pred 0
-Sentence I'll ask them about any dietary needs/allergies when they're out next.
-GT 0
-Pred 0
-Sentence They just keep living and doing what needs to be done.
-GT 0
-Pred 0
-Sentence If the distance and hate side outweighs the love, passion and commitment side, the scale and relationship will topple.
-GT 0
-Pred 0
-Sentence That said, it seems normal to feel insecure and to compare yourself to other people.
-GT 0
-Pred 0
-Sentence My last ex was the same way.
-GT 0
-Pred 0
-Sentence Besides, it's neat to see what people leave behind in their books, from bookmarks to memos.
-GT 0
-Pred 0
-Sentence I wonder what parents are thinking sometimes.
-GT 0
-Pred 0
-Sentence Like she really liked hanging out with me.
-GT 0
-Pred 0
-Sentence v=BYJOxfXwuU0)  Here are some tweets about it.
-GT 0
-Pred 0
-Sentence I'm so sorry you're going through this.
-GT 0
-Pred 0
-Sentence My sentiments, my energy and my care to you and your family/warrior.
-GT 0
-Pred 0
-Sentence Flirt with him and see what happens!
-GT 0
-Pred 0
-Sentence Maybe if she trust the therapist and you trust him, you can go in together and talk through things.
-GT 0
-Pred 0
-Sentence It eliminates all possible food groups that could cause any problems flour , milk, many fruits and veggies, garlic onions .... just google Fodmap  you will find information and recipes.
-GT 0
-Pred 0
-Sentence But remember, him choosing his marriage has nothing to do with you specifically.
-GT 0
-Pred 0
-Sentence In Texas, your parents can also opt out of you learning about menstruation.
-GT 0
-Pred 0
-Sentence Oh I wonder if there<U+0092>s one near me, I would totally do that!!!
-GT 0
-Pred 0
-Sentence The truth is bad news for the status they<U+0092>ve come to know.
-GT 0
-Pred 0
-Sentence I<U+0092>ve heard security or networking in the computer field is where it<U+0092>s at.
-GT 0
-Pred 0
-Sentence Thank you for your submission!
-GT 0
-Pred 0
-Sentence Thats a deviant, disgusting offense.
-GT 0
-Pred 0
-Sentence This is all relationships.
-GT 0
-Pred 0
-Sentence &gt;Date only when you have started loving being alone without being lonely.
-GT 0
-Pred 0
-Sentence If she needs space, give her that, but don't let her slip away if you really care about this friendship.
-GT 0
-Pred 0
-Sentence But I know what a shit storm that would cause and I know you're done with all this drama.
-GT 0
-Pred 0
-Sentence I don't think that necessitates a drug test.
-GT 0
-Pred 0
-Sentence Which podcasts do you like to listen to?
-GT 0
-Pred 0
-Sentence I'll try to speak to him about it again.
-GT 0
-Pred 0
-Sentence Society can be so cruel and disgusting.
-GT 0
-Pred 0
-Sentence You may be going through something tough right now, but it doesn't mean you can't keep fighting.
-GT 0
-Pred 0
-Sentence In reality, people don't care how you move out there on the dance floor.
-GT 0
-Pred 0
-Sentence Bonus tip: Try avoiding dead times, keep doing activities and stuff to keep you entertained.
-GT 0
-Pred 0
-Sentence Do things you enjoy, try not to be too unhealthy, and just keep breathing.
-GT 0
-Pred 0
-Sentence Are you doing chemo or radiation to shrink the tumour?
-GT 0
-Pred 0
-Sentence Just curious/ cautioning, did you ask her out as in on a date or actually asked her the be your girlfriend?
-GT 0
-Pred 0
-Sentence A lot of things changed around then, got stricter.
-GT 0
-Pred 0
-Sentence Anything else will be a bonus!
-GT 0
-Pred 0
-Sentence That's exactly what I'm also thinking!
-GT 0
-Pred 0
-Sentence * Someone cheats because his/her values are fucked up.
-GT 0
-Pred 0
-Sentence Now what option seems the least scary.
-GT 0
-Pred 0
-Sentence I just don't want to give up on this so easily...
-GT 0
-Pred 0
-Sentence They were on their phones.
-GT 0
-Pred 0
-Sentence You need to pack your bags and go to that honeymoon.
-GT 0
-Pred 0
-Sentence How long do you realistically think this will continue if you continue handling this the way you are currently?
-GT 0
-Pred 0
-Sentence It's never gotten that bad again and he's made some real progress.
-GT 0
-Pred 0
-Sentence Right now I'm pretty much winging it, lol
-GT 0
-Pred 0
-Sentence Last phone call:  Mark from AllStream  3.
-GT 0
-Pred 0
-Sentence Is there anything I can do to help....
-GT 0
-Pred 0
-Sentence Even for extroverts I think some alone time, especially activities or walks through the city or something, are really good for really getting to know yourself better without the influence of other people.
-GT 0
-Pred 0
-Sentence Twitch Plays Pokemon had a lot of re-runs of the classics, each with a little twist.
-GT 0
-Pred 0
-Sentence I never considered that people creating podcasts together don't live close enough to each other that they see everyone else every day.
-GT 0
-Pred 0
-Sentence It sucks for now, but in the long run like you said, I think it was the right decision.
-GT 0
-Pred 0
-Sentence They<U+0092>d be shouting across the room <U+0093>Oh my god!
-GT 0
-Pred 0
-Sentence By no means would any of this be easy, but it would be something to pour your passion into and it would be a sense of accomplishment if you could pull it off.
-GT 0
-Pred 0
-Sentence The kids are left in the middle to watch while the parents tear each other down.
-GT 0
-Pred 0
-Sentence Haha yeah, we aren<U+0092>t into really doing things that are dangerous/illegal.
-GT 0
-Pred 0
-Sentence There<U+0092>s a solution out there for you, just ask for help.
-GT 0
-Pred 0
-Sentence It gives other people some "leeway" to make fools of themselves as well, if you've already done so.
-GT 0
-Pred 0
-Sentence Like, a million times better.
-GT 0
-Pred 0
-Sentence Maybe be more precise in making plans from here on out.
-GT 0
-Pred 0
-Sentence ) ...you have time to do this.<U+0094>
-GT 0
-Pred 0
-Sentence Sadly awareness of this fact is not widespread enough.
-GT 0
-Pred 0
-Sentence It's much more fun the way I interpreted it.
-GT 0
-Pred 0
-Sentence This is important for you to work against.
-GT 0
-Pred 0
-Sentence It took me that long to finally get over it and realize it wasn<U+0092>t a crime to have a crush on someone.
-GT 0
-Pred 0
-Sentence This was an amazing read.
-GT 0
-Pred 0
-Sentence By the way, I also want to remind you during this time that what happened wasn<U+0092>t in anyway your fault and that the blame lies entirely with her/him/whatever.
-GT 0
-Pred 0
-Sentence It<U+0092>s not that he doesn<U+0092>t, he<U+0092>s just not awesome at it.
-GT 0
-Pred 0
-Sentence I'm so sorry for your loss.
-GT 0
-Pred 0
-Sentence I'm currently working out how to minimize any impact on them.
-GT 0
-Pred 0
-Sentence Those are true moment of relaxation and happiness.
-GT 0
-Pred 0
-Sentence And of course, these are the same people that probably love to cherry pick from the bible.
-GT 0
-Pred 0
-Sentence Are you also bringing a U-Haul?
-GT 0
-Pred 0
-Sentence But you'll figure out what you need to heal properly.
-GT 0
-Pred 0
-Sentence Hey OP I just wanna say that this is honestly one of my deepest fears.
-GT 0
-Pred 0
-Sentence Hope it gets through to her, even if it takes a while
-GT 0
-Pred 0
-Sentence Have hope and good luck!
-GT 0
-Pred 0
-Sentence I wish you and your kids that best, may you live amazing lives like those little shits can never ever dream to have.
-GT 0
-Pred 0
-Sentence Everyone deserves to be happy.
-GT 0
-Pred 0
-Sentence You need t I have a real sit down talk about it without defense. :/
-GT 0
-Pred 0
-Sentence Sometimes you<U+0092>re up on the wave and sometimes you<U+0092>re at the bottom.
-GT 0
-Pred 0
-Sentence Don<U+0091>t take it personally, sometimes you can only rely on yourself.
-GT 0
-Pred 0
-Sentence Also about the suicide jokes and no faith in a god, you do hold problems you haven't addressed in a medical form.
-GT 0
-Pred 0
-Sentence I never really dealt with the at the time so suddenly now seeing that place brought it to the forefront of my mind.
-GT 0
-Pred 0
-Sentence That is still so young!
-GT 0
-Pred 0
-Sentence I'd definitely recommend trying out some kind of club.
-GT 0
-Pred 0
-Sentence If you aren't able to find her a great home where she will be treated like a princess, euthanizing her is the best option.
-GT 0
-Pred 0
-Sentence I think he's just lazy.
-GT 0
-Pred 0
-Sentence I wanted to be the one that didn't.
-GT 0
-Pred 0
-Sentence (Plus if it's a nice enough college, they probably have dorms;some community colleges are pretty good, and some big colleges pay for everything if you're smart enough, and need help.
-GT 0
-Pred 0
-Sentence Yea I got the vibe this is fake.
-GT 0
-Pred 0
-Sentence But there's no excuse for cheating, in my eyes.
-GT 0
-Pred 0
-Sentence I strongly suggest you file for a permanent restraining order now, before it's too late.
-GT 0
-Pred 0
-Sentence If this is your bottom, then you'll do it.
-GT 0
-Pred 0
-Sentence It's only clear if OP knows all of the facts (and he probably doesn't know every intimate detail of their brother's married life) and is telling us all of the facts.
-GT 0
-Pred 0
-Sentence Hopefully you guys won't suffer anymore and that your mom finds a nice, mature man who appreciates and loves her as much as possible!
-GT 0
-Pred 0
-Sentence The problems are against 'Stacy' as a person.
-GT 0
-Pred 0
-Sentence It is not called being strict...
-GT 0
-Pred 0
-Sentence I don't think you are a bad person or husband at all.
-GT 0
-Pred 0
-Sentence It doesn't sound corny at all, it's nice to hear and it is reassuring.
-GT 0
-Pred 0
-Sentence I hope I can find them homes.
-GT 0
+Sentence [first thought when I heard I'm alright](https://www.youtube.com/watch?
+GT 1
 Pred 0
