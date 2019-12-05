@@ -1,0 +1,69 @@
+Sentence I think it's nice to give one clear unambiguous warning but that's only if you are negotiable about the relationship.
+GT 1
+Pred 1
+Sentence Decide if smoking is a deal breaker for you or not - and don't be a nag.
+GT 1
+Pred 1
+Sentence My advice is to keep your head up as much as possible and stay focused on school.
+GT 1
+Pred 1
+Sentence Please find a counselor to discuss these issues with.
+GT 1
+Pred 1
+Sentence Let her know, bottom line, you don't want her to look at that letter and read it for what it is.
+GT 1
+Pred 1
+Sentence Tell her ahead of time you are making her dinner for her birthday, then have one of her friends invite her out for the time period before the dinner (for a movie or something) and encourage her to go as you have to prep anyway.
+GT 1
+Pred 1
+Sentence My advice to you is to move to a large city, and find yourself a niche, cause you're definitely not alone!
+GT 1
+Pred 1
+Sentence Just forgive her and be cool again, do not let it get to you.
+GT 1
+Pred 1
+Sentence *That said*, if your community overwhelmingly disapproves, then you should either not do it or relocate to somewhere where people don't give a f--k.
+GT 1
+Pred 1
+Sentence For more information and help you can look at www.rainn.org and www.1in6.org
+GT 1
+Pred 1
+Sentence Do yourself a favor: take back all your power, dump her and find a girl that makes you feel like the only man she needs
+GT 1
+Pred 1
+Sentence You should spend more time with it so it likes you, if anything just hold the back on their skin and keep it in the lap
+GT 1
+Pred 1
+Sentence I<U+0092>m trying to take some positives from this and identify the good things in this person that I can look for in future partners cos I<U+0092>m sure he<U+0092>s not the only unicorn good guy out there.
+GT 1
+Pred 1
+Sentence Talk and approach him without making him feel attacked, basically just think about how your <U+0093>disorder<U+0094> makes you feel and try to avoid trigger words.
+GT 1
+Pred 1
+Sentence Don't take every slight as intentional and an insult, but do pay attention to them.
+GT 1
+Pred 1
+Sentence So speak to your lawyer - know your rights - and then talk to your H.
+GT 1
+Pred 1
+Sentence If you're associated with that kind of lifestyle, then I guess it's good to be cautious, but if you want to date someone, you should get a good sense of who they are before you commit to a relationship.
+GT 1
+Pred 1
+Sentence Keep making reports to CPS, chances are they are understaffed and over worked, and therefore either dismissed your initial report or haven't got to it.
+GT 1
+Pred 1
+Sentence Maybe your wife, a good friend, or else a psychologist.
+GT 1
+Pred 1
+Sentence I think its fine to chase down this lady and get her to fix it, but I think you also need to adjust your mentality so you can take it in your stride (because its going to happen again and again)
+GT 1
+Pred 1
+Sentence You need to take time for things that you want to do that don<U+0092>t involve her.
+GT 1
+Pred 1
+Sentence Then work out the rest, apologise, make up.
+GT 1
+Pred 1
+Sentence You can't help him if you let him drag you down, contact your closest hospital for information.
+GT 1
+Pred 1

@@ -1,0 +1,198 @@
+Sentence Hope everything continues to run smoothly!
+GT 1
+Pred 0
+Sentence You don't owe anything to anyone
+GT 1
+Pred 0
+Sentence The pain will get better.
+GT 1
+Pred 0
+Sentence I get hes important to you, but your wife should clearly be more important to you than your friend, and fully starting your new life with her should be the number 1 priority in your life right now.
+GT 1
+Pred 0
+Sentence Were you just ignoring or neglecting her &amp; the marriage?
+GT 1
+Pred 0
+Sentence You absolutely have a right to be upset about this but you are mature enough to know that you have to put her feelings above your own.
+GT 1
+Pred 0
+Sentence Don't feel like you "need" to date.
+GT 1
+Pred 0
+Sentence And no you are not ugly.
+GT 1
+Pred 0
+Sentence All that and more will be yours.
+GT 1
+Pred 0
+Sentence And that<U+0092>s why I think debate is healthy.
+GT 1
+Pred 0
+Sentence I am not sensing any <U+0093>internal<U+0094> confusion.
+GT 1
+Pred 0
+Sentence You are looking after what's best for your kids rather than reacting on emotion.
+GT 1
+Pred 0
+Sentence Hey man, it's not easy being alone.
+GT 1
+Pred 0
+Sentence Focus on you and how much better a person you are than them.
+GT 1
+Pred 0
+Sentence That does sound like a lot to think about at once.
+GT 1
+Pred 0
+Sentence See, that's the best way to do it.
+GT 1
+Pred 0
+Sentence Plus I'm sure your parents love being able to spend time with their grandkids, so everyone wins here!
+GT 1
+Pred 0
+Sentence There is only so much you can do.
+GT 1
+Pred 0
+Sentence I wish you luck man.
+GT 1
+Pred 0
+Sentence The best quote I know for this is "And the only way I could feel this sad now is if I felt something really good before."
+GT 1
+Pred 0
+Sentence Maybe you<U+0092>re not a religious person but look at it this way, a few travelers need to cross a heavy flowing river but they can<U+0092>t because if they step into it they will get swept away.
+GT 1
+Pred 0
+Sentence And I am with someone who I wouldn<U+0092>t trade for the world.
+GT 1
+Pred 0
+Sentence Your life is important, your contributions to this world are important.
+GT 1
+Pred 0
+Sentence Sometimes the things we think we want the most are the things that kill us!
+GT 1
+Pred 0
+Sentence Your friends will certainly miss you, I<U+0092>d imagine.
+GT 1
+Pred 0
+Sentence If you divorce him, he can move back to his old Target job and marry someone from among his friends, and you're both happier.
+GT 1
+Pred 0
+Sentence Relationships are hard to find and build.
+GT 1
+Pred 0
+Sentence Then when you see someone who's vulnerable/in pain/emotional and is being bullied, you go help that guy out and stand with him.  90% of reddit will support OP but one person come up and judges you, and you'll forget about the 90% of redditors who supported you.
+GT 1
+Pred 0
+Sentence But this isn't the end.
+GT 1
+Pred 0
+Sentence We all have those moments.
+GT 1
+Pred 0
+Sentence Well it seems like an awful experience to have to go through.
+GT 1
+Pred 0
+Sentence Baby steps are just as good, OP.
+GT 1
+Pred 0
+Sentence If you have nothing more to lose, that means you have everything to gain.
+GT 1
+Pred 0
+Sentence Take pride in your integrity, i hope you update a year from now to tell us how much your life has improved from this moment.
+GT 1
+Pred 0
+Sentence Seriously  I would be worried that she would develop Munchhausen in order to compete.
+GT 1
+Pred 0
+Sentence It's just something to consider.
+GT 1
+Pred 0
+Sentence There is pain, and confusion, but I truly believe that simply being alive is a gift.
+GT 1
+Pred 0
+Sentence Seriously most amazing thing ever.
+GT 1
+Pred 0
+Sentence Take life by the balls.
+GT 1
+Pred 0
+Sentence I think it's awesome that you're following up with the FBI in addition to your local police.
+GT 1
+Pred 0
+Sentence I think you should get some space, then come back with an actual plan for what you want.
+GT 1
+Pred 0
+Sentence I don't know if this helps, but your situation made me think of a passage from the autobiographical part of Stephen King's On Writing.
+GT 1
+Pred 0
+Sentence You'll be okay though, don't worry.
+GT 1
+Pred 0
+Sentence Not to help them, but to help you.
+GT 1
+Pred 0
+Sentence Use that as a foundation with which to grow.
+GT 1
+Pred 0
+Sentence Soon this will just be an experience that guides you in the future.
+GT 1
+Pred 0
+Sentence If you love him and trust him then just roll with it.
+GT 1
+Pred 0
+Sentence But like someone else said, some girls are into that, it's just about weeding them out of the patch from the majority.
+GT 1
+Pred 0
+Sentence At least your life is going great now.
+GT 1
+Pred 0
+Sentence that's such a good attitude!
+GT 1
+Pred 0
+Sentence The ones who go through hard times know how to appreciate good times the best.
+GT 1
+Pred 0
+Sentence Well what's to be scared of?
+GT 1
+Pred 0
+Sentence Everyone is different I'm sure you do things for your girlfriend my boyfriend never does.
+GT 1
+Pred 0
+Sentence There are some tough things you have to face.
+GT 1
+Pred 0
+Sentence Everyone deserves to be happy.
+GT 1
+Pred 0
+Sentence Communication is the corner stone to a healthy relationship, and it is a two way avenue.
+GT 1
+Pred 0
+Sentence I'm so proud of you.
+GT 1
+Pred 0
+Sentence Congratulations on raising a child who sounds to be doing just fine and who is creative and filled with life!
+GT 1
+Pred 0
+Sentence Nothing wrong with that :)
+GT 1
+Pred 0
+Sentence There's always something good to come.
+GT 1
+Pred 0
+Sentence Just be careful its not sketchy or anything like that.
+GT 1
+Pred 0
+Sentence Maybe it<U+0092>s easier to be where you are because change is scary sometimes.
+GT 1
+Pred 0
+Sentence It is your right to grieve.
+GT 1
+Pred 0
+Sentence Don't let anyone tell you what to do!
+GT 1
+Pred 0
+Sentence You have to deal with yourself for you're whole life, so you better like your soul
+GT 1
+Pred 0
+Sentence It<U+0092>s exhausting pretending to be someone you are not.
+GT 1
+Pred 0

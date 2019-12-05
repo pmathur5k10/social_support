@@ -1,0 +1,6 @@
+Sentence Regardless things have started to get better in ways that are hard to put into words.
+GT 0
+Pred 1
+Sentence And men want things to stay just the way they are.
+GT 0
+Pred 1

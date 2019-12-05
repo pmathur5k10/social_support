@@ -1,0 +1,99 @@
+Sentence I an so, so sorry for your loss.
+GT 1
+Pred 1
+Sentence i read your story. i am so so sorry for everything you've been through. i was happy to see you're doing yoga and going to therapy, those were both things i was going to recommend to you, as they have helped me through really tough times.  i'm not sure what the community is like where you live, but there is an app/website called Next Door that i've found to be extremely helpful in many ways.. you can post anything on there, it is essentially a message board for your neighborhood. you could try posting that you're going through a break up/extreme emotional stress and could really use a friend but don't have any in the area, would anyone want to meet for coffee or something?
+GT 1
+Pred 1
+Sentence You sound strong, you will get through this.
+GT 1
+Pred 1
+Sentence I feel sorry for what you are going through.
+GT 1
+Pred 1
+Sentence It really feels great to have someone standing with you during tough times.
+GT 1
+Pred 1
+Sentence I'm sorry for your situation and I'm sorry your son has to continue to suffer in this position because we as a society haven't addressed this issue properly yet.
+GT 1
+Pred 1
+Sentence OP, I appreciate you making this post because it made me realize how judgmental I can be, and it's opened my eyes a bit more.
+GT 1
+Pred 1
+Sentence It's so nice to see you actively improving your life.
+GT 1
+Pred 1
+Sentence I understand how it feels, and I understand that it is a hard thing to get through.
+GT 1
+Pred 1
+Sentence You may be going through something tough right now, but it doesn't mean you can't keep fighting.
+GT 1
+Pred 1
+Sentence The moments you are together will feel wonderful for you and you will think that this will work out etc.
+GT 1
+Pred 1
+Sentence find the silver lining in it all. you sound like an amazing mom!
+GT 1
+Pred 1
+Sentence I<U+0092>m so sorry that happened.
+GT 1
+Pred 1
+Sentence I am sorry for that weight you carry.
+GT 1
+Pred 1
+Sentence I'm sorry for your marriage, but it seems like you feel it had to be done.
+GT 1
+Pred 1
+Sentence Here's hoping you have a swift and lasting recovery.
+GT 1
+Pred 1
+Sentence I hope you are able to find a balance that allows you to be happy, and to truly appreciate the joys of having your son in your life, as well as to pursue your career and the interests that are important to you.
+GT 1
+Pred 1
+Sentence I'm sorry things worked out like they did.
+GT 1
+Pred 1
+Sentence I hope you succeed in accomplishing your dream!
+GT 1
+Pred 1
+Sentence The hard thing is, you feel you've done something wrong and you love them.
+GT 1
+Pred 1
+Sentence But you are strong and it wasn't your fault.
+GT 1
+Pred 1
+Sentence You sound like an awesome parent; I wish you were the parent of every kid I teach!
+GT 1
+Pred 1
+Sentence She's very lucky to have someone like you there for her everyday.
+GT 1
+Pred 1
+Sentence I'm sure you'll do well
+GT 1
+Pred 1
+Sentence As someone who's struggling to overcome his own shitty upbringing, I commend you.
+GT 1
+Pred 1
+Sentence I'm glad you're almost through, too!
+GT 1
+Pred 1
+Sentence Self esteem issues are the worst and I<U+0092>m glad that you are starting to lose them.
+GT 1
+Pred 1
+Sentence I am glad you've made it this far, and I hope you will feel better in forseeable future :-)
+GT 1
+Pred 1
+Sentence Congrats-- parenting job well done my man!!
+GT 1
+Pred 1
+Sentence My heart hurts for all that's been taken from your family, but thankful you've been there for him and were given a gift as big as he received in finding his voice again....being present for it.
+GT 1
+Pred 1
+Sentence It seems like you were let down by a lot of people who should<U+0092>ve been there to help you.
+GT 1
+Pred 1
+Sentence I'm glad to hear that everything worked out for you.
+GT 1
+Pred 1
+Sentence I'm sorry to hear you had to go through it as well!
+GT 1
+Pred 1
